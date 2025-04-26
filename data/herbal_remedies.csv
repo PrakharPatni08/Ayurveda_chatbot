@@ -1,0 +1,999 @@
+Disease,Symptoms,Remedy,Usage
+Indigestion,"Itching, redness, inflammation","Guggul, Triphala, Honey","Neem paste on affected area, turmeric in warm milk"
+Eye Problems,"Hard stool, bloating","Ajwain, Ginger, Lemon","Fennel tea after meals, amla juice"
+Hypertension,"Stress, sinus, tension","Giloy, Tulsi, Ginger",Decoction twice daily
+Headache,"Anxiety, restlessness","Ajwain, Ginger, Lemon",Decoction twice daily
+Arthritis,"Joint pain, swelling","Amla, Bhringraj, Coconut Oil","Ajwain with warm water after meals, ginger tea"
+Hairfall,"Blurred vision, eye strain","Brahmi, Ashwagandha, Shankhpushpi",Juice or tea after meals
+Acidity,"Severe headache, nausea","Mulethi (Licorice), Honey, Ginger",Juice or decoction once daily
+Eye Problems,"Weak roots, dandruff, dryness","Tulsi, Ginger, Honey, Black Pepper","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Obesity,"Overweight, fatigue","Jamun Seeds, Methi Seeds, Neem Leaves",Juice or decoction once daily
+Constipation,"Runny nose, sore throat, sneezing, cough","Bael Fruit, Pomegranate, Ginger",Tulsi tea with ginger & honey twice daily
+Indigestion,Dry or wet cough,"Guggul, Triphala, Honey","Fennel tea after meals, amla juice"
+Stress,"Severe headache, nausea","Jamun Seeds, Methi Seeds, Neem Leaves",Juice or powder in warm water
+Cough,"Irregular periods, cramps","Amla, Bhringraj, Coconut Oil",Juice or powder in warm water
+Diabetes,"Breathlessness, chest tightness","Ginger Oil, Turmeric, Eucalyptus Oil",Juice or powder in warm water
+Acidity,"Itching, redness, inflammation","Guggul, Triphala, Honey",Juice or tea after meals
+Asthma,"Overweight, fatigue","Triphala, Isabgol, Warm Water",Juice or decoction once daily
+Acidity,"Irregular periods, cramps","Peppermint, Ginger, Coriander",Herbal capsule or tea twice daily
+Back Pain,"Itching, redness, inflammation","Neem, Turmeric, Aloe Vera",Tulsi tea with ginger & honey twice daily
+Menstrual Problems,"Anxiety, restlessness","Triphala, Amla, Honey","Ajwain with warm water after meals, ginger tea"
+Diarrhea,"Itching, redness, inflammation","Garlic, Arjuna, Amla",Oil massage and warm compress
+Headache,"Blurred vision, eye strain","Vasaka, Tulsi, Ginger","Ajwain with warm water after meals, ginger tea"
+Acidity,"High blood pressure, headache","Bael Fruit, Pomegranate, Ginger",Decoction twice daily
+Asthma,"Loose motion, dehydration","Tulsi, Ginger, Honey, Black Pepper",Oil massage and warm compress
+Cough,"Loose motion, dehydration","Ashoka, Lodhra, Aloe Vera",Juice with honey twice daily
+Indigestion,"Burning sensation, chest pain, bloating","Amla, Bhringraj, Coconut Oil",Juice or powder in warm water
+Common Cold,"High temperature, body pain, weakness","Jamun Seeds, Methi Seeds, Neem Leaves",Juice with honey twice daily
+Back Pain,"Severe headache, nausea","Peppermint, Ginger, Coriander","Fennel tea after meals, amla juice"
+Hairfall,"Loose motion, dehydration","Ashoka, Lodhra, Aloe Vera",Triphala powder at night with warm water
+Headache,Dry or wet cough,"Mulethi (Licorice), Honey, Ginger",Juice with honey twice daily
+Constipation,"Severe headache, nausea","Fennel Seeds, Amla, Mint","Jamun seed powder with water, methi overnight water"
+Asthma,"High temperature, body pain, weakness","Guggul, Triphala, Honey",Mulethi powder with honey twice daily
+Eye Problems,"Bloating, gas, stomach ache, acidity","Bael Fruit, Pomegranate, Ginger",Oil massage and warm compress
+Common Cold,"Hard stool, bloating","Giloy, Tulsi, Ginger",Herbal capsule or tea twice daily
+Diabetes,"Lower back pain, stiffness","Fennel Seeds, Amla, Mint","Amla juice daily, bhringraj oil scalp massage"
+Skin Allergy,Dry or wet cough,"Vasaka, Tulsi, Ginger",Juice or tea after meals
+Cough,"Hard stool, bloating","Bael Fruit, Pomegranate, Ginger",Herbal tea twice daily
+Obesity,"Anxiety, restlessness","Garlic, Arjuna, Amla","Amla juice daily, bhringraj oil scalp massage"
+Menstrual Problems,"High blood sugar, frequent urination","Mulethi (Licorice), Honey, Ginger","Neem paste on affected area, turmeric in warm milk"
+Diabetes,"Stress, sinus, tension","Ginger Oil, Turmeric, Eucalyptus Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Eye Problems,"Burning sensation, chest pain, bloating","Bael Fruit, Pomegranate, Ginger","Jamun seed powder with water, methi overnight water"
+Hairfall,"Irregular periods, cramps","Ashwagandha, Turmeric, Ginger","Neem paste on affected area, turmeric in warm milk"
+Asthma,"Irregular periods, cramps","Brahmi, Ashwagandha, Shankhpushpi",Paste application and inhalation
+Asthma,"Burning sensation, chest pain, bloating","Ginger Oil, Turmeric, Eucalyptus Oil","Amla juice daily, bhringraj oil scalp massage"
+Eye Problems,"Burning sensation, chest pain, bloating","Fennel Seeds, Amla, Mint","Neem paste on affected area, turmeric in warm milk"
+Fever,"High blood pressure, headache","Brahmi, Peppermint, Eucalyptus Oil",Paste application and inhalation
+Eye Problems,"Weak roots, dandruff, dryness","Neem, Turmeric, Aloe Vera",Juice or powder in warm water
+Diarrhea,"High blood pressure, headache","Ashoka, Lodhra, Aloe Vera",Juice or powder in warm water
+Diabetes,"Runny nose, sore throat, sneezing, cough","Guggul, Triphala, Honey",Herbal tea twice daily
+Back Pain,Dry or wet cough,"Neem, Turmeric, Aloe Vera","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Menstrual Problems,"Bloating, gas, stomach ache, acidity","Guggul, Triphala, Honey",Tulsi tea with ginger & honey twice daily
+Stress,"Severe headache, nausea","Triphala, Amla, Honey",Juice or powder in warm water
+Indigestion,"Breathlessness, chest tightness","Ashoka, Lodhra, Aloe Vera",Juice or powder in warm water
+Hairfall,"Joint pain, swelling","Ashoka, Lodhra, Aloe Vera",Juice or decoction once daily
+Obesity,Dry or wet cough,"Garlic, Arjuna, Amla",Mulethi powder with honey twice daily
+Menstrual Problems,"Lower back pain, stiffness","Tulsi, Ginger, Honey, Black Pepper",Juice with honey twice daily
+Obesity,"Runny nose, sore throat, sneezing, cough","Mulethi (Licorice), Honey, Ginger","Jamun seed powder with water, methi overnight water"
+Menstrual Problems,"Irregular periods, cramps","Ashwagandha, Turmeric, Ginger",Juice or powder in warm water
+Skin Allergy,Dry or wet cough,"Ginger Oil, Turmeric, Eucalyptus Oil",Herbal tea twice daily
+Diabetes,"Burning sensation, chest pain, bloating","Brahmi, Peppermint, Eucalyptus Oil",Juice with honey twice daily
+Skin Allergy,"Severe headache, nausea","Mulethi (Licorice), Honey, Ginger",Decoction twice daily
+Skin Allergy,"Stress, sinus, tension","Brahmi, Ashwagandha, Shankhpushpi","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Back Pain,"High temperature, body pain, weakness","Fennel Seeds, Amla, Mint",Juice or powder in warm water
+Arthritis,"Anxiety, restlessness","Neem, Turmeric, Aloe Vera",Juice or powder in warm water
+Eye Problems,"Lower back pain, stiffness","Neem, Turmeric, Aloe Vera",Juice with honey twice daily
+Eye Problems,"Stress, sinus, tension","Giloy, Tulsi, Ginger","Jamun seed powder with water, methi overnight water"
+Migraine,"Itching, redness, inflammation","Triphala, Amla, Honey",Juice or decoction once daily
+Hairfall,"Burning sensation, chest pain, bloating","Triphala, Isabgol, Warm Water",Powder with warm water daily
+Headache,"Severe headache, nausea","Amla, Bhringraj, Coconut Oil","Fennel tea after meals, amla juice"
+Obesity,"Irregular periods, cramps","Neem, Turmeric, Aloe Vera",Juice or decoction once daily
+Stress,"Weak roots, dandruff, dryness","Ginger Oil, Turmeric, Eucalyptus Oil","Neem paste on affected area, turmeric in warm milk"
+Common Cold,"Overweight, fatigue","Brahmi, Peppermint, Eucalyptus Oil",Oil massage and warm compress
+Headache,"High temperature, body pain, weakness","Neem, Turmeric, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Asthma,"Weak roots, dandruff, dryness","Ginger Oil, Turmeric, Eucalyptus Oil","Amla juice daily, bhringraj oil scalp massage"
+Asthma,"Stress, sinus, tension","Brahmi, Ashwagandha, Shankhpushpi",Juice or powder in warm water
+Constipation,"Blurred vision, eye strain","Neem, Turmeric, Aloe Vera","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Asthma,"Overweight, fatigue","Peppermint, Ginger, Coriander",Paste application and inhalation
+Obesity,"High blood pressure, headache","Jamun Seeds, Methi Seeds, Neem Leaves",Mulethi powder with honey twice daily
+Hypertension,"Weak roots, dandruff, dryness","Tulsi, Ginger, Honey, Black Pepper",Mulethi powder with honey twice daily
+Common Cold,"Stress, sinus, tension","Brahmi, Peppermint, Eucalyptus Oil","Jamun seed powder with water, methi overnight water"
+Cough,"High temperature, body pain, weakness","Bael Fruit, Pomegranate, Ginger",Mulethi powder with honey twice daily
+Hypertension,"Bloating, gas, stomach ache, acidity","Ginger Oil, Turmeric, Eucalyptus Oil",Decoction twice daily
+Common Cold,"Breathlessness, chest tightness","Tulsi, Ginger, Honey, Black Pepper",Juice or decoction once daily
+Migraine,"Hard stool, bloating","Ashwagandha, Turmeric, Ginger",Herbal tea twice daily
+Obesity,"Burning sensation, chest pain, bloating","Jamun Seeds, Methi Seeds, Neem Leaves","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Back Pain,"Irregular periods, cramps","Ashoka, Lodhra, Aloe Vera",Powder with warm water daily
+Stress,"High temperature, body pain, weakness","Neem, Turmeric, Aloe Vera",Paste application and inhalation
+Hypertension,"Anxiety, restlessness","Ashwagandha, Turmeric, Ginger",Mulethi powder with honey twice daily
+Skin Allergy,"Anxiety, restlessness","Mulethi (Licorice), Honey, Ginger","Neem paste on affected area, turmeric in warm milk"
+Indigestion,"Stress, sinus, tension","Fennel Seeds, Amla, Mint",Triphala powder at night with warm water
+Back Pain,Dry or wet cough,"Ashoka, Lodhra, Aloe Vera",Tulsi tea with ginger & honey twice daily
+Stress,"High temperature, body pain, weakness","Mulethi (Licorice), Honey, Ginger",Mulethi powder with honey twice daily
+Common Cold,"Burning sensation, chest pain, bloating","Mulethi (Licorice), Honey, Ginger",Juice with honey twice daily
+Constipation,"Bloating, gas, stomach ache, acidity","Fennel Seeds, Amla, Mint",Juice or tea after meals
+Asthma,"Runny nose, sore throat, sneezing, cough","Tulsi, Ginger, Honey, Black Pepper",Tulsi tea with ginger & honey twice daily
+Diabetes,"Loose motion, dehydration","Jamun Seeds, Methi Seeds, Neem Leaves",Juice or tea after meals
+Obesity,"Breathlessness, chest tightness","Jamun Seeds, Methi Seeds, Neem Leaves",Oil massage and warm compress
+Migraine,Dry or wet cough,"Brahmi, Ashwagandha, Shankhpushpi","Amla juice daily, bhringraj oil scalp massage"
+Common Cold,"Stress, sinus, tension","Neem, Turmeric, Aloe Vera",Mulethi powder with honey twice daily
+Constipation,"Blurred vision, eye strain","Mulethi (Licorice), Honey, Ginger",Giloy juice with water daily
+Menstrual Problems,"High temperature, body pain, weakness","Jamun Seeds, Methi Seeds, Neem Leaves",Decoction twice daily
+Obesity,"Itching, redness, inflammation","Neem, Turmeric, Aloe Vera",Tulsi tea with ginger & honey twice daily
+Diabetes,"Weak roots, dandruff, dryness","Ajwain, Ginger, Lemon",Triphala powder at night with warm water
+Acidity,"Itching, redness, inflammation","Peppermint, Ginger, Coriander",Decoction twice daily
+Obesity,"Breathlessness, chest tightness","Mulethi (Licorice), Honey, Ginger",Juice or decoction once daily
+Constipation,"Loose motion, dehydration","Giloy, Tulsi, Ginger",Juice or tea after meals
+Hairfall,"Lower back pain, stiffness","Vasaka, Tulsi, Ginger",Powder with warm water daily
+Diabetes,"Bloating, gas, stomach ache, acidity","Mulethi (Licorice), Honey, Ginger",Herbal capsule or tea twice daily
+Diarrhea,"Runny nose, sore throat, sneezing, cough","Garlic, Arjuna, Amla",Mulethi powder with honey twice daily
+Indigestion,"Burning sensation, chest pain, bloating","Mulethi (Licorice), Honey, Ginger",Juice or powder in warm water
+Diarrhea,"Itching, redness, inflammation","Brahmi, Peppermint, Eucalyptus Oil","Jamun seed powder with water, methi overnight water"
+Diabetes,"Runny nose, sore throat, sneezing, cough","Fennel Seeds, Amla, Mint",Juice with honey twice daily
+Hairfall,"Joint pain, swelling","Vasaka, Tulsi, Ginger",Paste application and inhalation
+Constipation,"High blood sugar, frequent urination","Peppermint, Ginger, Coriander","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Hypertension,"Joint pain, swelling","Triphala, Isabgol, Warm Water","Ajwain with warm water after meals, ginger tea"
+Menstrual Problems,"High blood pressure, headache","Vasaka, Tulsi, Ginger",Paste application and inhalation
+Obesity,"Burning sensation, chest pain, bloating","Amla, Bhringraj, Coconut Oil","Fennel tea after meals, amla juice"
+Hypertension,"Breathlessness, chest tightness","Garlic, Arjuna, Amla",Mulethi powder with honey twice daily
+Common Cold,Dry or wet cough,"Jamun Seeds, Methi Seeds, Neem Leaves",Oil massage and warm compress
+Diarrhea,"Hard stool, bloating","Giloy, Tulsi, Ginger",Juice with honey twice daily
+Common Cold,"Stress, sinus, tension","Brahmi, Peppermint, Eucalyptus Oil","Amla juice daily, bhringraj oil scalp massage"
+Acidity,"Anxiety, restlessness","Triphala, Isabgol, Warm Water","Jamun seed powder with water, methi overnight water"
+Hypertension,"Breathlessness, chest tightness","Giloy, Tulsi, Ginger",Juice or powder in warm water
+Acidity,"Irregular periods, cramps","Garlic, Arjuna, Amla",Mulethi powder with honey twice daily
+Back Pain,"Runny nose, sore throat, sneezing, cough","Brahmi, Ashwagandha, Shankhpushpi",Giloy juice with water daily
+Headache,"High temperature, body pain, weakness","Ashwagandha, Turmeric, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Constipation,"Hard stool, bloating","Fennel Seeds, Amla, Mint",Powder with warm water daily
+Menstrual Problems,"Weak roots, dandruff, dryness","Mulethi (Licorice), Honey, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Hairfall,"High blood pressure, headache","Peppermint, Ginger, Coriander",Juice with honey twice daily
+Indigestion,"Severe headache, nausea","Triphala, Isabgol, Warm Water","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Menstrual Problems,"Irregular periods, cramps","Guggul, Triphala, Honey",Juice with honey twice daily
+Skin Allergy,"Lower back pain, stiffness","Ashoka, Lodhra, Aloe Vera",Paste application and inhalation
+Common Cold,"High blood sugar, frequent urination","Giloy, Tulsi, Ginger",Herbal tea twice daily
+Skin Allergy,"Burning sensation, chest pain, bloating","Giloy, Tulsi, Ginger",Tulsi tea with ginger & honey twice daily
+Diabetes,"High temperature, body pain, weakness","Tulsi, Ginger, Honey, Black Pepper",Decoction twice daily
+Constipation,"Bloating, gas, stomach ache, acidity","Brahmi, Ashwagandha, Shankhpushpi",Juice or powder in warm water
+Diarrhea,"Blurred vision, eye strain","Ashwagandha, Turmeric, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Asthma,"Lower back pain, stiffness","Brahmi, Peppermint, Eucalyptus Oil","Jamun seed powder with water, methi overnight water"
+Cough,"High temperature, body pain, weakness","Neem, Turmeric, Aloe Vera",Triphala powder at night with warm water
+Acidity,"Anxiety, restlessness","Amla, Bhringraj, Coconut Oil",Mulethi powder with honey twice daily
+Eye Problems,"High blood sugar, frequent urination","Neem, Turmeric, Aloe Vera",Herbal tea twice daily
+Headache,"Lower back pain, stiffness","Neem, Turmeric, Aloe Vera",Powder with warm water daily
+Indigestion,"Runny nose, sore throat, sneezing, cough","Jamun Seeds, Methi Seeds, Neem Leaves",Paste application and inhalation
+Back Pain,"Breathlessness, chest tightness","Ashoka, Lodhra, Aloe Vera",Juice or decoction once daily
+Hypertension,"Runny nose, sore throat, sneezing, cough","Ashoka, Lodhra, Aloe Vera",Juice or decoction once daily
+Arthritis,"Lower back pain, stiffness","Neem, Turmeric, Aloe Vera","Fennel tea after meals, amla juice"
+Obesity,"High blood pressure, headache","Guggul, Triphala, Honey",Triphala powder at night with warm water
+Diarrhea,"Lower back pain, stiffness","Neem, Turmeric, Aloe Vera","Jamun seed powder with water, methi overnight water"
+Cough,"Joint pain, swelling","Jamun Seeds, Methi Seeds, Neem Leaves",Herbal tea twice daily
+Hairfall,"Lower back pain, stiffness","Neem, Turmeric, Aloe Vera",Juice with honey twice daily
+Migraine,"Stress, sinus, tension","Triphala, Isabgol, Warm Water",Oil massage and warm compress
+Obesity,Dry or wet cough,"Neem, Turmeric, Aloe Vera",Juice or powder in warm water
+Hairfall,"Bloating, gas, stomach ache, acidity","Ajwain, Ginger, Lemon",Giloy juice with water daily
+Stress,"Breathlessness, chest tightness","Vasaka, Tulsi, Ginger",Mulethi powder with honey twice daily
+Back Pain,"Burning sensation, chest pain, bloating","Garlic, Arjuna, Amla",Tulsi tea with ginger & honey twice daily
+Common Cold,"Overweight, fatigue","Triphala, Amla, Honey","Ajwain with warm water after meals, ginger tea"
+Diabetes,"High blood pressure, headache","Ashwagandha, Turmeric, Ginger",Paste application and inhalation
+Eye Problems,"Breathlessness, chest tightness","Guggul, Triphala, Honey","Fennel tea after meals, amla juice"
+Headache,"Runny nose, sore throat, sneezing, cough","Bael Fruit, Pomegranate, Ginger",Juice or powder in warm water
+Eye Problems,"Joint pain, swelling","Brahmi, Ashwagandha, Shankhpushpi",Herbal tea twice daily
+Obesity,"Blurred vision, eye strain","Neem, Turmeric, Aloe Vera",Mulethi powder with honey twice daily
+Obesity,"Severe headache, nausea","Mulethi (Licorice), Honey, Ginger","Jamun seed powder with water, methi overnight water"
+Indigestion,"Weak roots, dandruff, dryness","Triphala, Isabgol, Warm Water",Tulsi tea with ginger & honey twice daily
+Menstrual Problems,"Loose motion, dehydration","Guggul, Triphala, Honey",Juice or powder in warm water
+Cough,"Lower back pain, stiffness","Ajwain, Ginger, Lemon",Triphala powder at night with warm water
+Common Cold,"Runny nose, sore throat, sneezing, cough","Neem, Turmeric, Aloe Vera","Amla juice daily, bhringraj oil scalp massage"
+Fever,Dry or wet cough,"Garlic, Arjuna, Amla",Juice or powder in warm water
+Menstrual Problems,"Loose motion, dehydration","Ajwain, Ginger, Lemon","Amla juice daily, bhringraj oil scalp massage"
+Stress,"Lower back pain, stiffness","Peppermint, Ginger, Coriander",Giloy juice with water daily
+Menstrual Problems,"Itching, redness, inflammation","Triphala, Isabgol, Warm Water",Herbal tea twice daily
+Eye Problems,"Joint pain, swelling","Jamun Seeds, Methi Seeds, Neem Leaves",Juice or tea after meals
+Common Cold,"High blood sugar, frequent urination","Guggul, Triphala, Honey","Ajwain with warm water after meals, ginger tea"
+Headache,"High blood pressure, headache","Giloy, Tulsi, Ginger",Oil massage and warm compress
+Arthritis,Dry or wet cough,"Ginger Oil, Turmeric, Eucalyptus Oil","Fennel tea after meals, amla juice"
+Hairfall,"Lower back pain, stiffness","Brahmi, Peppermint, Eucalyptus Oil",Mulethi powder with honey twice daily
+Cough,"Anxiety, restlessness","Vasaka, Tulsi, Ginger","Ajwain with warm water after meals, ginger tea"
+Acidity,"Blurred vision, eye strain","Ashwagandha, Turmeric, Ginger",Tulsi tea with ginger & honey twice daily
+Cough,"Stress, sinus, tension","Amla, Bhringraj, Coconut Oil",Herbal capsule or tea twice daily
+Diarrhea,"Hard stool, bloating","Tulsi, Ginger, Honey, Black Pepper","Ajwain with warm water after meals, ginger tea"
+Back Pain,"Runny nose, sore throat, sneezing, cough","Ashoka, Lodhra, Aloe Vera",Juice or powder in warm water
+Hairfall,"High temperature, body pain, weakness","Ashwagandha, Turmeric, Ginger","Ajwain with warm water after meals, ginger tea"
+Indigestion,"Blurred vision, eye strain","Ginger Oil, Turmeric, Eucalyptus Oil","Jamun seed powder with water, methi overnight water"
+Asthma,"Joint pain, swelling","Neem, Turmeric, Aloe Vera",Paste application and inhalation
+Indigestion,"Lower back pain, stiffness","Guggul, Triphala, Honey",Herbal capsule or tea twice daily
+Arthritis,"Itching, redness, inflammation","Tulsi, Ginger, Honey, Black Pepper","Ajwain with warm water after meals, ginger tea"
+Indigestion,"Loose motion, dehydration","Jamun Seeds, Methi Seeds, Neem Leaves",Mulethi powder with honey twice daily
+Diarrhea,"Hard stool, bloating","Triphala, Amla, Honey",Decoction twice daily
+Obesity,"Severe headache, nausea","Brahmi, Ashwagandha, Shankhpushpi",Herbal capsule or tea twice daily
+Hypertension,"Itching, redness, inflammation","Ashwagandha, Turmeric, Ginger",Juice or tea after meals
+Arthritis,"High blood sugar, frequent urination","Mulethi (Licorice), Honey, Ginger",Mulethi powder with honey twice daily
+Indigestion,"Loose motion, dehydration","Ashwagandha, Turmeric, Ginger",Mulethi powder with honey twice daily
+Fever,"Severe headache, nausea","Brahmi, Peppermint, Eucalyptus Oil","Fennel tea after meals, amla juice"
+Eye Problems,"Runny nose, sore throat, sneezing, cough","Jamun Seeds, Methi Seeds, Neem Leaves","Fennel tea after meals, amla juice"
+Common Cold,"Anxiety, restlessness","Neem, Turmeric, Aloe Vera","Fennel tea after meals, amla juice"
+Hypertension,"Weak roots, dandruff, dryness","Mulethi (Licorice), Honey, Ginger",Herbal capsule or tea twice daily
+Obesity,"High temperature, body pain, weakness","Ginger Oil, Turmeric, Eucalyptus Oil","Fennel tea after meals, amla juice"
+Stress,"Loose motion, dehydration","Bael Fruit, Pomegranate, Ginger","Jamun seed powder with water, methi overnight water"
+Acidity,"Overweight, fatigue","Bael Fruit, Pomegranate, Ginger",Juice with honey twice daily
+Asthma,"Blurred vision, eye strain","Neem, Turmeric, Aloe Vera",Herbal capsule or tea twice daily
+Migraine,Dry or wet cough,"Ashoka, Lodhra, Aloe Vera",Herbal capsule or tea twice daily
+Menstrual Problems,"Irregular periods, cramps","Fennel Seeds, Amla, Mint","Amla juice daily, bhringraj oil scalp massage"
+Common Cold,"Bloating, gas, stomach ache, acidity","Ajwain, Ginger, Lemon","Jamun seed powder with water, methi overnight water"
+Hairfall,"High blood sugar, frequent urination","Giloy, Tulsi, Ginger",Oil massage and warm compress
+Headache,"Bloating, gas, stomach ache, acidity","Brahmi, Ashwagandha, Shankhpushpi",Oil massage and warm compress
+Skin Allergy,"Blurred vision, eye strain","Neem, Turmeric, Aloe Vera",Giloy juice with water daily
+Indigestion,"Loose motion, dehydration","Tulsi, Ginger, Honey, Black Pepper",Decoction twice daily
+Constipation,"Irregular periods, cramps","Guggul, Triphala, Honey",Paste application and inhalation
+Constipation,Dry or wet cough,"Peppermint, Ginger, Coriander","Neem paste on affected area, turmeric in warm milk"
+Constipation,"High blood pressure, headache","Mulethi (Licorice), Honey, Ginger",Juice or powder in warm water
+Common Cold,"Overweight, fatigue","Tulsi, Ginger, Honey, Black Pepper",Juice or powder in warm water
+Diarrhea,"Stress, sinus, tension","Fennel Seeds, Amla, Mint",Giloy juice with water daily
+Diarrhea,Dry or wet cough,"Amla, Bhringraj, Coconut Oil",Herbal tea twice daily
+Diarrhea,"Blurred vision, eye strain","Garlic, Arjuna, Amla",Powder with warm water daily
+Hairfall,"Weak roots, dandruff, dryness","Ajwain, Ginger, Lemon",Juice or decoction once daily
+Diabetes,"High blood pressure, headache","Tulsi, Ginger, Honey, Black Pepper",Mulethi powder with honey twice daily
+Constipation,"Stress, sinus, tension","Neem, Turmeric, Aloe Vera",Herbal capsule or tea twice daily
+Back Pain,"Runny nose, sore throat, sneezing, cough","Ginger Oil, Turmeric, Eucalyptus Oil",Juice or tea after meals
+Fever,"High blood pressure, headache","Neem, Turmeric, Aloe Vera",Juice with honey twice daily
+Constipation,"Weak roots, dandruff, dryness","Tulsi, Ginger, Honey, Black Pepper",Juice or tea after meals
+Back Pain,"Lower back pain, stiffness","Bael Fruit, Pomegranate, Ginger",Juice or tea after meals
+Diabetes,"Anxiety, restlessness","Brahmi, Ashwagandha, Shankhpushpi","Fennel tea after meals, amla juice"
+Eye Problems,"Itching, redness, inflammation","Triphala, Isabgol, Warm Water",Paste application and inhalation
+Fever,"Hard stool, bloating","Vasaka, Tulsi, Ginger",Juice or decoction once daily
+Back Pain,"Weak roots, dandruff, dryness","Brahmi, Ashwagandha, Shankhpushpi","Neem paste on affected area, turmeric in warm milk"
+Headache,"Blurred vision, eye strain","Brahmi, Peppermint, Eucalyptus Oil","Neem paste on affected area, turmeric in warm milk"
+Obesity,"Bloating, gas, stomach ache, acidity","Ajwain, Ginger, Lemon",Mulethi powder with honey twice daily
+Indigestion,"High blood sugar, frequent urination","Mulethi (Licorice), Honey, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Menstrual Problems,"Joint pain, swelling","Mulethi (Licorice), Honey, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Eye Problems,"Loose motion, dehydration","Triphala, Amla, Honey",Powder with warm water daily
+Fever,"Irregular periods, cramps","Garlic, Arjuna, Amla",Juice or decoction once daily
+Constipation,"Runny nose, sore throat, sneezing, cough","Neem, Turmeric, Aloe Vera",Triphala powder at night with warm water
+Skin Allergy,"Joint pain, swelling","Ajwain, Ginger, Lemon","Fennel tea after meals, amla juice"
+Menstrual Problems,"Runny nose, sore throat, sneezing, cough","Tulsi, Ginger, Honey, Black Pepper",Mulethi powder with honey twice daily
+Skin Allergy,"Lower back pain, stiffness","Amla, Bhringraj, Coconut Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Obesity,"Bloating, gas, stomach ache, acidity","Garlic, Arjuna, Amla",Decoction twice daily
+Diarrhea,"Lower back pain, stiffness","Fennel Seeds, Amla, Mint",Decoction twice daily
+Diabetes,"Overweight, fatigue","Brahmi, Peppermint, Eucalyptus Oil",Herbal capsule or tea twice daily
+Cough,"High blood pressure, headache","Amla, Bhringraj, Coconut Oil",Oil massage and warm compress
+Skin Allergy,"Lower back pain, stiffness","Ajwain, Ginger, Lemon","Fennel tea after meals, amla juice"
+Diabetes,"Bloating, gas, stomach ache, acidity","Ashoka, Lodhra, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Common Cold,"Lower back pain, stiffness","Mulethi (Licorice), Honey, Ginger",Decoction twice daily
+Stress,"Burning sensation, chest pain, bloating","Neem, Turmeric, Aloe Vera","Jamun seed powder with water, methi overnight water"
+Indigestion,"Runny nose, sore throat, sneezing, cough","Brahmi, Peppermint, Eucalyptus Oil",Oil massage and warm compress
+Cough,"Severe headache, nausea","Ginger Oil, Turmeric, Eucalyptus Oil","Jamun seed powder with water, methi overnight water"
+Indigestion,"Weak roots, dandruff, dryness","Jamun Seeds, Methi Seeds, Neem Leaves",Paste application and inhalation
+Diabetes,"Weak roots, dandruff, dryness","Amla, Bhringraj, Coconut Oil",Decoction twice daily
+Eye Problems,"Hard stool, bloating","Triphala, Isabgol, Warm Water",Tulsi tea with ginger & honey twice daily
+Eye Problems,"Breathlessness, chest tightness","Triphala, Amla, Honey","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Indigestion,"High blood pressure, headache","Bael Fruit, Pomegranate, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Asthma,"Anxiety, restlessness","Ashoka, Lodhra, Aloe Vera",Powder with warm water daily
+Acidity,"Hard stool, bloating","Ginger Oil, Turmeric, Eucalyptus Oil",Juice with honey twice daily
+Cough,"Loose motion, dehydration","Ashoka, Lodhra, Aloe Vera",Juice or tea after meals
+Hairfall,"Hard stool, bloating","Ashwagandha, Turmeric, Ginger",Juice or decoction once daily
+Migraine,"Weak roots, dandruff, dryness","Peppermint, Ginger, Coriander",Mulethi powder with honey twice daily
+Common Cold,"High blood pressure, headache","Brahmi, Peppermint, Eucalyptus Oil","Neem paste on affected area, turmeric in warm milk"
+Diarrhea,"Irregular periods, cramps","Peppermint, Ginger, Coriander",Herbal capsule or tea twice daily
+Diarrhea,"High blood pressure, headache","Ashoka, Lodhra, Aloe Vera",Herbal tea twice daily
+Hairfall,"Overweight, fatigue","Brahmi, Peppermint, Eucalyptus Oil","Neem paste on affected area, turmeric in warm milk"
+Headache,"Severe headache, nausea","Ashoka, Lodhra, Aloe Vera",Herbal capsule or tea twice daily
+Diabetes,"Hard stool, bloating","Mulethi (Licorice), Honey, Ginger",Herbal tea twice daily
+Common Cold,"Irregular periods, cramps","Brahmi, Peppermint, Eucalyptus Oil",Mulethi powder with honey twice daily
+Eye Problems,"Burning sensation, chest pain, bloating","Giloy, Tulsi, Ginger",Decoction twice daily
+Cough,"High blood sugar, frequent urination","Triphala, Amla, Honey","Neem paste on affected area, turmeric in warm milk"
+Indigestion,"High blood sugar, frequent urination","Giloy, Tulsi, Ginger",Paste application and inhalation
+Asthma,"Bloating, gas, stomach ache, acidity","Ajwain, Ginger, Lemon","Neem paste on affected area, turmeric in warm milk"
+Skin Allergy,"Anxiety, restlessness","Bael Fruit, Pomegranate, Ginger",Juice with honey twice daily
+Headache,"High blood pressure, headache","Ajwain, Ginger, Lemon","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Diarrhea,"High temperature, body pain, weakness","Jamun Seeds, Methi Seeds, Neem Leaves","Amla juice daily, bhringraj oil scalp massage"
+Indigestion,"Irregular periods, cramps","Ashoka, Lodhra, Aloe Vera",Juice with honey twice daily
+Indigestion,"Breathlessness, chest tightness","Bael Fruit, Pomegranate, Ginger",Powder with warm water daily
+Acidity,"Bloating, gas, stomach ache, acidity","Triphala, Isabgol, Warm Water",Giloy juice with water daily
+Arthritis,Dry or wet cough,"Brahmi, Ashwagandha, Shankhpushpi",Triphala powder at night with warm water
+Asthma,"Joint pain, swelling","Jamun Seeds, Methi Seeds, Neem Leaves","Ajwain with warm water after meals, ginger tea"
+Fever,"Overweight, fatigue","Amla, Bhringraj, Coconut Oil",Juice with honey twice daily
+Indigestion,"Itching, redness, inflammation","Neem, Turmeric, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Skin Allergy,"Blurred vision, eye strain","Giloy, Tulsi, Ginger",Herbal capsule or tea twice daily
+Indigestion,"Blurred vision, eye strain","Ajwain, Ginger, Lemon",Juice with honey twice daily
+Eye Problems,"Bloating, gas, stomach ache, acidity","Neem, Turmeric, Aloe Vera",Triphala powder at night with warm water
+Obesity,"Loose motion, dehydration","Ajwain, Ginger, Lemon","Jamun seed powder with water, methi overnight water"
+Eye Problems,"High blood sugar, frequent urination","Guggul, Triphala, Honey","Fennel tea after meals, amla juice"
+Acidity,"Anxiety, restlessness","Tulsi, Ginger, Honey, Black Pepper","Jamun seed powder with water, methi overnight water"
+Cough,"High temperature, body pain, weakness","Ashoka, Lodhra, Aloe Vera",Juice or tea after meals
+Menstrual Problems,"Hard stool, bloating","Tulsi, Ginger, Honey, Black Pepper","Fennel tea after meals, amla juice"
+Migraine,"Stress, sinus, tension","Neem, Turmeric, Aloe Vera","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Menstrual Problems,"High blood sugar, frequent urination","Guggul, Triphala, Honey","Jamun seed powder with water, methi overnight water"
+Diarrhea,"Burning sensation, chest pain, bloating","Neem, Turmeric, Aloe Vera",Triphala powder at night with warm water
+Stress,"Hard stool, bloating","Ajwain, Ginger, Lemon",Herbal tea twice daily
+Menstrual Problems,"Severe headache, nausea","Guggul, Triphala, Honey",Tulsi tea with ginger & honey twice daily
+Headache,"Irregular periods, cramps","Mulethi (Licorice), Honey, Ginger","Jamun seed powder with water, methi overnight water"
+Hypertension,"Loose motion, dehydration","Giloy, Tulsi, Ginger",Decoction twice daily
+Back Pain,"High blood pressure, headache","Triphala, Amla, Honey",Juice with honey twice daily
+Hypertension,"Irregular periods, cramps","Amla, Bhringraj, Coconut Oil","Jamun seed powder with water, methi overnight water"
+Skin Allergy,"Bloating, gas, stomach ache, acidity","Guggul, Triphala, Honey","Ajwain with warm water after meals, ginger tea"
+Diarrhea,"Lower back pain, stiffness","Mulethi (Licorice), Honey, Ginger",Herbal capsule or tea twice daily
+Eye Problems,"Lower back pain, stiffness","Ajwain, Ginger, Lemon",Powder with warm water daily
+Cough,"Bloating, gas, stomach ache, acidity","Peppermint, Ginger, Coriander","Ajwain with warm water after meals, ginger tea"
+Stress,"Blurred vision, eye strain","Vasaka, Tulsi, Ginger",Powder with warm water daily
+Headache,"Hard stool, bloating","Tulsi, Ginger, Honey, Black Pepper",Triphala powder at night with warm water
+Asthma,"Burning sensation, chest pain, bloating","Amla, Bhringraj, Coconut Oil",Mulethi powder with honey twice daily
+Eye Problems,Dry or wet cough,"Garlic, Arjuna, Amla","Fennel tea after meals, amla juice"
+Indigestion,"Severe headache, nausea","Ashoka, Lodhra, Aloe Vera",Decoction twice daily
+Headache,"Burning sensation, chest pain, bloating","Mulethi (Licorice), Honey, Ginger","Fennel tea after meals, amla juice"
+Asthma,"Blurred vision, eye strain","Bael Fruit, Pomegranate, Ginger",Juice with honey twice daily
+Menstrual Problems,"Irregular periods, cramps","Mulethi (Licorice), Honey, Ginger",Herbal capsule or tea twice daily
+Stress,"Loose motion, dehydration","Amla, Bhringraj, Coconut Oil",Oil massage and warm compress
+Arthritis,"Burning sensation, chest pain, bloating","Giloy, Tulsi, Ginger",Giloy juice with water daily
+Hypertension,"Irregular periods, cramps","Peppermint, Ginger, Coriander","Amla juice daily, bhringraj oil scalp massage"
+Skin Allergy,"Itching, redness, inflammation","Bael Fruit, Pomegranate, Ginger",Juice with honey twice daily
+Arthritis,"Overweight, fatigue","Ashwagandha, Turmeric, Ginger",Paste application and inhalation
+Common Cold,"Weak roots, dandruff, dryness","Triphala, Isabgol, Warm Water","Neem paste on affected area, turmeric in warm milk"
+Eye Problems,"Burning sensation, chest pain, bloating","Triphala, Amla, Honey",Juice or decoction once daily
+Cough,"Anxiety, restlessness","Triphala, Isabgol, Warm Water",Herbal capsule or tea twice daily
+Diabetes,"Overweight, fatigue","Amla, Bhringraj, Coconut Oil","Ajwain with warm water after meals, ginger tea"
+Back Pain,"Hard stool, bloating","Mulethi (Licorice), Honey, Ginger",Giloy juice with water daily
+Arthritis,"Loose motion, dehydration","Peppermint, Ginger, Coriander",Powder with warm water daily
+Common Cold,Dry or wet cough,"Bael Fruit, Pomegranate, Ginger","Neem paste on affected area, turmeric in warm milk"
+Migraine,"Overweight, fatigue","Brahmi, Ashwagandha, Shankhpushpi",Paste application and inhalation
+Back Pain,"Weak roots, dandruff, dryness","Triphala, Amla, Honey","Neem paste on affected area, turmeric in warm milk"
+Hairfall,"Weak roots, dandruff, dryness","Ajwain, Ginger, Lemon",Giloy juice with water daily
+Arthritis,"Burning sensation, chest pain, bloating","Bael Fruit, Pomegranate, Ginger","Fennel tea after meals, amla juice"
+Common Cold,Dry or wet cough,"Mulethi (Licorice), Honey, Ginger",Oil massage and warm compress
+Diabetes,"Weak roots, dandruff, dryness","Brahmi, Ashwagandha, Shankhpushpi",Decoction twice daily
+Skin Allergy,"Breathlessness, chest tightness","Peppermint, Ginger, Coriander",Juice or tea after meals
+Hairfall,"Severe headache, nausea","Giloy, Tulsi, Ginger",Mulethi powder with honey twice daily
+Asthma,"Irregular periods, cramps","Brahmi, Peppermint, Eucalyptus Oil",Mulethi powder with honey twice daily
+Arthritis,"Lower back pain, stiffness","Jamun Seeds, Methi Seeds, Neem Leaves",Herbal capsule or tea twice daily
+Fever,"Irregular periods, cramps","Garlic, Arjuna, Amla","Neem paste on affected area, turmeric in warm milk"
+Constipation,"Anxiety, restlessness","Triphala, Isabgol, Warm Water",Mulethi powder with honey twice daily
+Eye Problems,"High blood sugar, frequent urination","Tulsi, Ginger, Honey, Black Pepper",Decoction twice daily
+Eye Problems,"Stress, sinus, tension","Brahmi, Peppermint, Eucalyptus Oil",Herbal capsule or tea twice daily
+Migraine,"Itching, redness, inflammation","Vasaka, Tulsi, Ginger","Ajwain with warm water after meals, ginger tea"
+Skin Allergy,"Joint pain, swelling","Ajwain, Ginger, Lemon",Giloy juice with water daily
+Migraine,"Severe headache, nausea","Vasaka, Tulsi, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Cough,"Overweight, fatigue","Bael Fruit, Pomegranate, Ginger",Giloy juice with water daily
+Skin Allergy,"Blurred vision, eye strain","Ajwain, Ginger, Lemon","Neem paste on affected area, turmeric in warm milk"
+Fever,Dry or wet cough,"Brahmi, Ashwagandha, Shankhpushpi",Paste application and inhalation
+Indigestion,"Irregular periods, cramps","Vasaka, Tulsi, Ginger",Herbal capsule or tea twice daily
+Skin Allergy,Dry or wet cough,"Ginger Oil, Turmeric, Eucalyptus Oil",Juice or tea after meals
+Acidity,"Anxiety, restlessness","Brahmi, Peppermint, Eucalyptus Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Hairfall,"Anxiety, restlessness","Tulsi, Ginger, Honey, Black Pepper",Juice or tea after meals
+Stress,"Irregular periods, cramps","Brahmi, Peppermint, Eucalyptus Oil",Decoction twice daily
+Stress,"Itching, redness, inflammation","Jamun Seeds, Methi Seeds, Neem Leaves",Mulethi powder with honey twice daily
+Obesity,"Hard stool, bloating","Ginger Oil, Turmeric, Eucalyptus Oil",Herbal tea twice daily
+Skin Allergy,"Irregular periods, cramps","Ashoka, Lodhra, Aloe Vera",Triphala powder at night with warm water
+Skin Allergy,"Stress, sinus, tension","Ashwagandha, Turmeric, Ginger",Giloy juice with water daily
+Fever,"Severe headache, nausea","Neem, Turmeric, Aloe Vera",Juice or tea after meals
+Arthritis,"Itching, redness, inflammation","Ginger Oil, Turmeric, Eucalyptus Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Back Pain,"High blood pressure, headache","Brahmi, Ashwagandha, Shankhpushpi",Juice with honey twice daily
+Asthma,"High temperature, body pain, weakness","Brahmi, Peppermint, Eucalyptus Oil",Tulsi tea with ginger & honey twice daily
+Diarrhea,"Stress, sinus, tension","Fennel Seeds, Amla, Mint","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Acidity,"Loose motion, dehydration","Ashwagandha, Turmeric, Ginger","Neem paste on affected area, turmeric in warm milk"
+Common Cold,"Breathlessness, chest tightness","Mulethi (Licorice), Honey, Ginger",Juice or tea after meals
+Skin Allergy,"Hard stool, bloating","Bael Fruit, Pomegranate, Ginger",Decoction twice daily
+Headache,"Severe headache, nausea","Neem, Turmeric, Aloe Vera",Giloy juice with water daily
+Headache,"High blood pressure, headache","Ashwagandha, Turmeric, Ginger",Paste application and inhalation
+Headache,"High blood sugar, frequent urination","Triphala, Isabgol, Warm Water",Triphala powder at night with warm water
+Headache,"Stress, sinus, tension","Peppermint, Ginger, Coriander",Oil massage and warm compress
+Diarrhea,"Runny nose, sore throat, sneezing, cough","Jamun Seeds, Methi Seeds, Neem Leaves",Mulethi powder with honey twice daily
+Back Pain,"Bloating, gas, stomach ache, acidity","Fennel Seeds, Amla, Mint","Fennel tea after meals, amla juice"
+Cough,"High temperature, body pain, weakness","Bael Fruit, Pomegranate, Ginger",Juice or powder in warm water
+Skin Allergy,"Stress, sinus, tension","Fennel Seeds, Amla, Mint",Herbal capsule or tea twice daily
+Constipation,"Itching, redness, inflammation","Neem, Turmeric, Aloe Vera",Juice or decoction once daily
+Obesity,"High temperature, body pain, weakness","Tulsi, Ginger, Honey, Black Pepper",Paste application and inhalation
+Hairfall,"Irregular periods, cramps","Tulsi, Ginger, Honey, Black Pepper",Paste application and inhalation
+Common Cold,"Itching, redness, inflammation","Neem, Turmeric, Aloe Vera",Juice or decoction once daily
+Stress,"High blood sugar, frequent urination","Brahmi, Ashwagandha, Shankhpushpi","Jamun seed powder with water, methi overnight water"
+Fever,"Weak roots, dandruff, dryness","Ajwain, Ginger, Lemon",Juice or powder in warm water
+Menstrual Problems,"Severe headache, nausea","Guggul, Triphala, Honey",Oil massage and warm compress
+Arthritis,"Hard stool, bloating","Guggul, Triphala, Honey",Decoction twice daily
+Back Pain,"Stress, sinus, tension","Brahmi, Ashwagandha, Shankhpushpi",Paste application and inhalation
+Hairfall,"Burning sensation, chest pain, bloating","Amla, Bhringraj, Coconut Oil",Mulethi powder with honey twice daily
+Fever,"High temperature, body pain, weakness","Giloy, Tulsi, Ginger",Oil massage and warm compress
+Back Pain,"High blood pressure, headache","Vasaka, Tulsi, Ginger",Giloy juice with water daily
+Fever,"Stress, sinus, tension","Neem, Turmeric, Aloe Vera",Mulethi powder with honey twice daily
+Skin Allergy,"Burning sensation, chest pain, bloating","Guggul, Triphala, Honey","Amla juice daily, bhringraj oil scalp massage"
+Constipation,"Overweight, fatigue","Brahmi, Peppermint, Eucalyptus Oil",Juice or tea after meals
+Obesity,Dry or wet cough,"Brahmi, Peppermint, Eucalyptus Oil",Herbal tea twice daily
+Constipation,"Stress, sinus, tension","Triphala, Amla, Honey",Giloy juice with water daily
+Hairfall,"Bloating, gas, stomach ache, acidity","Garlic, Arjuna, Amla",Giloy juice with water daily
+Fever,"Burning sensation, chest pain, bloating","Garlic, Arjuna, Amla","Fennel tea after meals, amla juice"
+Hairfall,"High blood pressure, headache","Vasaka, Tulsi, Ginger",Juice with honey twice daily
+Stress,"High blood sugar, frequent urination","Triphala, Isabgol, Warm Water",Tulsi tea with ginger & honey twice daily
+Cough,"Hard stool, bloating","Triphala, Amla, Honey",Juice with honey twice daily
+Back Pain,"Hard stool, bloating","Neem, Turmeric, Aloe Vera",Giloy juice with water daily
+Asthma,"Breathlessness, chest tightness","Vasaka, Tulsi, Ginger",Juice or decoction once daily
+Acidity,"Weak roots, dandruff, dryness","Amla, Bhringraj, Coconut Oil","Jamun seed powder with water, methi overnight water"
+Stress,"Blurred vision, eye strain","Bael Fruit, Pomegranate, Ginger",Paste application and inhalation
+Common Cold,"Itching, redness, inflammation","Ashoka, Lodhra, Aloe Vera",Juice or powder in warm water
+Acidity,"High blood pressure, headache","Garlic, Arjuna, Amla","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Constipation,"Severe headache, nausea","Giloy, Tulsi, Ginger","Neem paste on affected area, turmeric in warm milk"
+Diarrhea,"Severe headache, nausea","Vasaka, Tulsi, Ginger","Neem paste on affected area, turmeric in warm milk"
+Indigestion,"Joint pain, swelling","Ginger Oil, Turmeric, Eucalyptus Oil",Mulethi powder with honey twice daily
+Acidity,"Itching, redness, inflammation","Giloy, Tulsi, Ginger",Juice or powder in warm water
+Arthritis,"Overweight, fatigue","Brahmi, Ashwagandha, Shankhpushpi",Decoction twice daily
+Menstrual Problems,"Stress, sinus, tension","Jamun Seeds, Methi Seeds, Neem Leaves","Fennel tea after meals, amla juice"
+Migraine,"Itching, redness, inflammation","Triphala, Amla, Honey",Herbal capsule or tea twice daily
+Common Cold,"Runny nose, sore throat, sneezing, cough","Bael Fruit, Pomegranate, Ginger",Juice or decoction once daily
+Arthritis,"Loose motion, dehydration","Ajwain, Ginger, Lemon",Powder with warm water daily
+Hairfall,"High blood sugar, frequent urination","Fennel Seeds, Amla, Mint",Juice or tea after meals
+Obesity,"Bloating, gas, stomach ache, acidity","Giloy, Tulsi, Ginger",Herbal capsule or tea twice daily
+Hypertension,"Hard stool, bloating","Amla, Bhringraj, Coconut Oil",Powder with warm water daily
+Eye Problems,"Bloating, gas, stomach ache, acidity","Garlic, Arjuna, Amla",Juice or powder in warm water
+Hypertension,"High temperature, body pain, weakness","Neem, Turmeric, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Skin Allergy,"Hard stool, bloating","Giloy, Tulsi, Ginger",Oil massage and warm compress
+Constipation,"Loose motion, dehydration","Triphala, Isabgol, Warm Water",Juice or powder in warm water
+Cough,"High temperature, body pain, weakness","Triphala, Isabgol, Warm Water",Herbal capsule or tea twice daily
+Back Pain,"Runny nose, sore throat, sneezing, cough","Fennel Seeds, Amla, Mint","Fennel tea after meals, amla juice"
+Common Cold,"Lower back pain, stiffness","Ashwagandha, Turmeric, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Back Pain,"Lower back pain, stiffness","Ajwain, Ginger, Lemon",Oil massage and warm compress
+Acidity,"Lower back pain, stiffness","Garlic, Arjuna, Amla",Herbal capsule or tea twice daily
+Obesity,"Weak roots, dandruff, dryness","Triphala, Isabgol, Warm Water",Herbal capsule or tea twice daily
+Indigestion,"High blood pressure, headache","Brahmi, Peppermint, Eucalyptus Oil",Juice or decoction once daily
+Common Cold,"Hard stool, bloating","Brahmi, Ashwagandha, Shankhpushpi",Giloy juice with water daily
+Asthma,"Itching, redness, inflammation","Jamun Seeds, Methi Seeds, Neem Leaves",Powder with warm water daily
+Headache,"Severe headache, nausea","Tulsi, Ginger, Honey, Black Pepper","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Fever,"Burning sensation, chest pain, bloating","Bael Fruit, Pomegranate, Ginger","Jamun seed powder with water, methi overnight water"
+Hairfall,"Lower back pain, stiffness","Giloy, Tulsi, Ginger",Paste application and inhalation
+Diarrhea,"Severe headache, nausea","Garlic, Arjuna, Amla",Powder with warm water daily
+Migraine,"High blood pressure, headache","Triphala, Isabgol, Warm Water",Juice or tea after meals
+Stress,Dry or wet cough,"Bael Fruit, Pomegranate, Ginger","Jamun seed powder with water, methi overnight water"
+Menstrual Problems,"High temperature, body pain, weakness","Fennel Seeds, Amla, Mint","Neem paste on affected area, turmeric in warm milk"
+Indigestion,"Itching, redness, inflammation","Garlic, Arjuna, Amla","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Constipation,"Breathlessness, chest tightness","Peppermint, Ginger, Coriander","Amla juice daily, bhringraj oil scalp massage"
+Diarrhea,"Loose motion, dehydration","Ashoka, Lodhra, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Arthritis,"Bloating, gas, stomach ache, acidity","Vasaka, Tulsi, Ginger",Triphala powder at night with warm water
+Back Pain,"Anxiety, restlessness","Neem, Turmeric, Aloe Vera",Juice or decoction once daily
+Constipation,"Stress, sinus, tension","Brahmi, Peppermint, Eucalyptus Oil",Juice with honey twice daily
+Diarrhea,"Lower back pain, stiffness","Triphala, Isabgol, Warm Water","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Eye Problems,"Overweight, fatigue","Triphala, Amla, Honey",Mulethi powder with honey twice daily
+Cough,"Joint pain, swelling","Neem, Turmeric, Aloe Vera","Amla juice daily, bhringraj oil scalp massage"
+Migraine,"Irregular periods, cramps","Vasaka, Tulsi, Ginger",Paste application and inhalation
+Acidity,"Burning sensation, chest pain, bloating","Ajwain, Ginger, Lemon","Jamun seed powder with water, methi overnight water"
+Diabetes,"Loose motion, dehydration","Bael Fruit, Pomegranate, Ginger",Herbal tea twice daily
+Back Pain,"Runny nose, sore throat, sneezing, cough","Ginger Oil, Turmeric, Eucalyptus Oil","Fennel tea after meals, amla juice"
+Obesity,"Irregular periods, cramps","Mulethi (Licorice), Honey, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Eye Problems,"Breathlessness, chest tightness","Triphala, Isabgol, Warm Water","Jamun seed powder with water, methi overnight water"
+Arthritis,"High blood pressure, headache","Garlic, Arjuna, Amla","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Indigestion,"Overweight, fatigue","Fennel Seeds, Amla, Mint",Herbal capsule or tea twice daily
+Constipation,"Breathlessness, chest tightness","Vasaka, Tulsi, Ginger",Mulethi powder with honey twice daily
+Menstrual Problems,"Overweight, fatigue","Ashwagandha, Turmeric, Ginger",Juice with honey twice daily
+Cough,"Weak roots, dandruff, dryness","Triphala, Amla, Honey",Herbal tea twice daily
+Stress,"Loose motion, dehydration","Ashwagandha, Turmeric, Ginger",Decoction twice daily
+Fever,"Breathlessness, chest tightness","Bael Fruit, Pomegranate, Ginger",Juice or decoction once daily
+Indigestion,"Loose motion, dehydration","Ginger Oil, Turmeric, Eucalyptus Oil","Jamun seed powder with water, methi overnight water"
+Skin Allergy,"High blood sugar, frequent urination","Brahmi, Peppermint, Eucalyptus Oil",Juice or powder in warm water
+Headache,"Blurred vision, eye strain","Neem, Turmeric, Aloe Vera",Juice or tea after meals
+Constipation,"Runny nose, sore throat, sneezing, cough","Jamun Seeds, Methi Seeds, Neem Leaves","Neem paste on affected area, turmeric in warm milk"
+Arthritis,"Burning sensation, chest pain, bloating","Triphala, Isabgol, Warm Water",Decoction twice daily
+Hairfall,"Lower back pain, stiffness","Bael Fruit, Pomegranate, Ginger","Ajwain with warm water after meals, ginger tea"
+Acidity,"Severe headache, nausea","Mulethi (Licorice), Honey, Ginger",Juice or tea after meals
+Eye Problems,"Runny nose, sore throat, sneezing, cough","Guggul, Triphala, Honey",Juice or powder in warm water
+Eye Problems,"Weak roots, dandruff, dryness","Bael Fruit, Pomegranate, Ginger","Jamun seed powder with water, methi overnight water"
+Diabetes,"High blood sugar, frequent urination","Ginger Oil, Turmeric, Eucalyptus Oil",Paste application and inhalation
+Cough,"Anxiety, restlessness","Ajwain, Ginger, Lemon",Powder with warm water daily
+Back Pain,"Burning sensation, chest pain, bloating","Ginger Oil, Turmeric, Eucalyptus Oil",Powder with warm water daily
+Hairfall,Dry or wet cough,"Brahmi, Ashwagandha, Shankhpushpi",Mulethi powder with honey twice daily
+Stress,"High blood pressure, headache","Bael Fruit, Pomegranate, Ginger",Juice or decoction once daily
+Hairfall,"Blurred vision, eye strain","Triphala, Amla, Honey","Neem paste on affected area, turmeric in warm milk"
+Hairfall,"Anxiety, restlessness","Mulethi (Licorice), Honey, Ginger",Juice or decoction once daily
+Cough,"High temperature, body pain, weakness","Vasaka, Tulsi, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Stress,"Anxiety, restlessness","Ashoka, Lodhra, Aloe Vera",Oil massage and warm compress
+Acidity,"Overweight, fatigue","Mulethi (Licorice), Honey, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Arthritis,"Burning sensation, chest pain, bloating","Vasaka, Tulsi, Ginger",Herbal tea twice daily
+Acidity,"High temperature, body pain, weakness","Triphala, Isabgol, Warm Water",Triphala powder at night with warm water
+Common Cold,"Breathlessness, chest tightness","Garlic, Arjuna, Amla","Ajwain with warm water after meals, ginger tea"
+Fever,"Burning sensation, chest pain, bloating","Jamun Seeds, Methi Seeds, Neem Leaves",Powder with warm water daily
+Obesity,"Hard stool, bloating","Amla, Bhringraj, Coconut Oil",Paste application and inhalation
+Migraine,"Blurred vision, eye strain","Neem, Turmeric, Aloe Vera",Mulethi powder with honey twice daily
+Migraine,"Anxiety, restlessness","Fennel Seeds, Amla, Mint","Fennel tea after meals, amla juice"
+Acidity,"Runny nose, sore throat, sneezing, cough","Garlic, Arjuna, Amla",Juice or decoction once daily
+Acidity,Dry or wet cough,"Ginger Oil, Turmeric, Eucalyptus Oil","Fennel tea after meals, amla juice"
+Eye Problems,"Loose motion, dehydration","Mulethi (Licorice), Honey, Ginger",Decoction twice daily
+Menstrual Problems,"Weak roots, dandruff, dryness","Ginger Oil, Turmeric, Eucalyptus Oil",Paste application and inhalation
+Diabetes,"Blurred vision, eye strain","Amla, Bhringraj, Coconut Oil","Fennel tea after meals, amla juice"
+Hypertension,"High temperature, body pain, weakness","Bael Fruit, Pomegranate, Ginger",Powder with warm water daily
+Hypertension,"Blurred vision, eye strain","Peppermint, Ginger, Coriander","Ajwain with warm water after meals, ginger tea"
+Indigestion,"Breathlessness, chest tightness","Ginger Oil, Turmeric, Eucalyptus Oil",Paste application and inhalation
+Back Pain,"Blurred vision, eye strain","Giloy, Tulsi, Ginger",Oil massage and warm compress
+Common Cold,"Hard stool, bloating","Guggul, Triphala, Honey",Oil massage and warm compress
+Cough,"Irregular periods, cramps","Giloy, Tulsi, Ginger","Fennel tea after meals, amla juice"
+Hairfall,"Stress, sinus, tension","Triphala, Isabgol, Warm Water",Tulsi tea with ginger & honey twice daily
+Stress,"Loose motion, dehydration","Guggul, Triphala, Honey",Mulethi powder with honey twice daily
+Diarrhea,Dry or wet cough,"Brahmi, Ashwagandha, Shankhpushpi",Herbal tea twice daily
+Fever,"Overweight, fatigue","Garlic, Arjuna, Amla",Juice or tea after meals
+Hypertension,"Overweight, fatigue","Giloy, Tulsi, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Back Pain,"Lower back pain, stiffness","Mulethi (Licorice), Honey, Ginger",Tulsi tea with ginger & honey twice daily
+Migraine,"Joint pain, swelling","Brahmi, Peppermint, Eucalyptus Oil","Amla juice daily, bhringraj oil scalp massage"
+Headache,"Itching, redness, inflammation","Triphala, Isabgol, Warm Water","Ajwain with warm water after meals, ginger tea"
+Obesity,"Weak roots, dandruff, dryness","Giloy, Tulsi, Ginger",Juice or decoction once daily
+Obesity,"Severe headache, nausea","Guggul, Triphala, Honey","Ajwain with warm water after meals, ginger tea"
+Headache,Dry or wet cough,"Fennel Seeds, Amla, Mint",Mulethi powder with honey twice daily
+Skin Allergy,"Bloating, gas, stomach ache, acidity","Amla, Bhringraj, Coconut Oil","Amla juice daily, bhringraj oil scalp massage"
+Arthritis,"Stress, sinus, tension","Vasaka, Tulsi, Ginger",Herbal capsule or tea twice daily
+Fever,"Loose motion, dehydration","Giloy, Tulsi, Ginger",Juice or tea after meals
+Menstrual Problems,"Lower back pain, stiffness","Peppermint, Ginger, Coriander",Triphala powder at night with warm water
+Eye Problems,"Joint pain, swelling","Peppermint, Ginger, Coriander",Triphala powder at night with warm water
+Constipation,"Lower back pain, stiffness","Giloy, Tulsi, Ginger",Herbal tea twice daily
+Common Cold,"Hard stool, bloating","Ashwagandha, Turmeric, Ginger",Tulsi tea with ginger & honey twice daily
+Headache,"Hard stool, bloating","Triphala, Amla, Honey",Herbal capsule or tea twice daily
+Constipation,"Bloating, gas, stomach ache, acidity","Peppermint, Ginger, Coriander","Ajwain with warm water after meals, ginger tea"
+Eye Problems,"Joint pain, swelling","Peppermint, Ginger, Coriander","Ajwain with warm water after meals, ginger tea"
+Headache,"Burning sensation, chest pain, bloating","Peppermint, Ginger, Coriander",Oil massage and warm compress
+Fever,"Blurred vision, eye strain","Bael Fruit, Pomegranate, Ginger",Triphala powder at night with warm water
+Indigestion,"Lower back pain, stiffness","Neem, Turmeric, Aloe Vera",Oil massage and warm compress
+Cough,"Itching, redness, inflammation","Ashwagandha, Turmeric, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Indigestion,"Runny nose, sore throat, sneezing, cough","Vasaka, Tulsi, Ginger",Mulethi powder with honey twice daily
+Acidity,"Itching, redness, inflammation","Brahmi, Ashwagandha, Shankhpushpi",Decoction twice daily
+Constipation,"Burning sensation, chest pain, bloating","Ajwain, Ginger, Lemon",Mulethi powder with honey twice daily
+Migraine,"Bloating, gas, stomach ache, acidity","Garlic, Arjuna, Amla",Tulsi tea with ginger & honey twice daily
+Migraine,"Loose motion, dehydration","Ashoka, Lodhra, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Asthma,"Bloating, gas, stomach ache, acidity","Tulsi, Ginger, Honey, Black Pepper","Amla juice daily, bhringraj oil scalp massage"
+Obesity,"Anxiety, restlessness","Mulethi (Licorice), Honey, Ginger",Powder with warm water daily
+Back Pain,"High blood pressure, headache","Guggul, Triphala, Honey",Juice or decoction once daily
+Migraine,"Loose motion, dehydration","Neem, Turmeric, Aloe Vera","Amla juice daily, bhringraj oil scalp massage"
+Menstrual Problems,"Loose motion, dehydration","Ashoka, Lodhra, Aloe Vera",Tulsi tea with ginger & honey twice daily
+Hypertension,"Runny nose, sore throat, sneezing, cough","Brahmi, Peppermint, Eucalyptus Oil","Fennel tea after meals, amla juice"
+Fever,"High blood sugar, frequent urination","Brahmi, Peppermint, Eucalyptus Oil",Juice with honey twice daily
+Fever,Dry or wet cough,"Jamun Seeds, Methi Seeds, Neem Leaves",Juice or tea after meals
+Diarrhea,"Hard stool, bloating","Peppermint, Ginger, Coriander",Powder with warm water daily
+Migraine,"Stress, sinus, tension","Vasaka, Tulsi, Ginger","Jamun seed powder with water, methi overnight water"
+Arthritis,"Joint pain, swelling","Garlic, Arjuna, Amla",Juice or powder in warm water
+Skin Allergy,"Weak roots, dandruff, dryness","Ajwain, Ginger, Lemon",Decoction twice daily
+Fever,"Loose motion, dehydration","Mulethi (Licorice), Honey, Ginger","Fennel tea after meals, amla juice"
+Diarrhea,"Severe headache, nausea","Ajwain, Ginger, Lemon",Tulsi tea with ginger & honey twice daily
+Hypertension,"Stress, sinus, tension","Bael Fruit, Pomegranate, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Back Pain,"Lower back pain, stiffness","Giloy, Tulsi, Ginger",Juice with honey twice daily
+Hypertension,"High blood sugar, frequent urination","Mulethi (Licorice), Honey, Ginger",Triphala powder at night with warm water
+Headache,"Hard stool, bloating","Tulsi, Ginger, Honey, Black Pepper","Neem paste on affected area, turmeric in warm milk"
+Common Cold,"Overweight, fatigue","Jamun Seeds, Methi Seeds, Neem Leaves",Herbal tea twice daily
+Arthritis,"Overweight, fatigue","Peppermint, Ginger, Coriander",Triphala powder at night with warm water
+Indigestion,Dry or wet cough,"Triphala, Amla, Honey",Powder with warm water daily
+Cough,"Hard stool, bloating","Jamun Seeds, Methi Seeds, Neem Leaves","Jamun seed powder with water, methi overnight water"
+Common Cold,"Lower back pain, stiffness","Mulethi (Licorice), Honey, Ginger",Paste application and inhalation
+Common Cold,"Lower back pain, stiffness","Vasaka, Tulsi, Ginger",Herbal tea twice daily
+Diarrhea,"Itching, redness, inflammation","Giloy, Tulsi, Ginger",Tulsi tea with ginger & honey twice daily
+Migraine,"Irregular periods, cramps","Jamun Seeds, Methi Seeds, Neem Leaves",Juice with honey twice daily
+Stress,"Loose motion, dehydration","Guggul, Triphala, Honey",Tulsi tea with ginger & honey twice daily
+Acidity,"Loose motion, dehydration","Brahmi, Peppermint, Eucalyptus Oil",Herbal tea twice daily
+Migraine,"Loose motion, dehydration","Neem, Turmeric, Aloe Vera",Mulethi powder with honey twice daily
+Eye Problems,"Breathlessness, chest tightness","Guggul, Triphala, Honey",Mulethi powder with honey twice daily
+Back Pain,"Runny nose, sore throat, sneezing, cough","Brahmi, Ashwagandha, Shankhpushpi","Ajwain with warm water after meals, ginger tea"
+Common Cold,"Overweight, fatigue","Tulsi, Ginger, Honey, Black Pepper",Herbal tea twice daily
+Headache,"Joint pain, swelling","Ajwain, Ginger, Lemon","Ajwain with warm water after meals, ginger tea"
+Menstrual Problems,"Burning sensation, chest pain, bloating","Bael Fruit, Pomegranate, Ginger",Paste application and inhalation
+Diarrhea,"Burning sensation, chest pain, bloating","Ashoka, Lodhra, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Asthma,"Runny nose, sore throat, sneezing, cough","Vasaka, Tulsi, Ginger",Giloy juice with water daily
+Diabetes,"Severe headache, nausea","Peppermint, Ginger, Coriander",Giloy juice with water daily
+Eye Problems,Dry or wet cough,"Mulethi (Licorice), Honey, Ginger","Fennel tea after meals, amla juice"
+Diabetes,"Anxiety, restlessness","Bael Fruit, Pomegranate, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Stress,"Hard stool, bloating","Vasaka, Tulsi, Ginger","Ajwain with warm water after meals, ginger tea"
+Menstrual Problems,"Itching, redness, inflammation","Triphala, Isabgol, Warm Water",Herbal capsule or tea twice daily
+Eye Problems,"Bloating, gas, stomach ache, acidity","Jamun Seeds, Methi Seeds, Neem Leaves",Triphala powder at night with warm water
+Arthritis,"High temperature, body pain, weakness","Bael Fruit, Pomegranate, Ginger",Powder with warm water daily
+Back Pain,"High temperature, body pain, weakness","Vasaka, Tulsi, Ginger",Oil massage and warm compress
+Eye Problems,"Weak roots, dandruff, dryness","Mulethi (Licorice), Honey, Ginger",Mulethi powder with honey twice daily
+Eye Problems,"Anxiety, restlessness","Ashwagandha, Turmeric, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Diabetes,"Burning sensation, chest pain, bloating","Peppermint, Ginger, Coriander",Juice or powder in warm water
+Indigestion,"Runny nose, sore throat, sneezing, cough","Peppermint, Ginger, Coriander",Juice or powder in warm water
+Constipation,"Runny nose, sore throat, sneezing, cough","Brahmi, Ashwagandha, Shankhpushpi",Juice or tea after meals
+Headache,"Severe headache, nausea","Peppermint, Ginger, Coriander",Decoction twice daily
+Menstrual Problems,"High blood sugar, frequent urination","Brahmi, Ashwagandha, Shankhpushpi",Decoction twice daily
+Menstrual Problems,"Joint pain, swelling","Brahmi, Ashwagandha, Shankhpushpi",Herbal tea twice daily
+Asthma,"High temperature, body pain, weakness","Ginger Oil, Turmeric, Eucalyptus Oil","Fennel tea after meals, amla juice"
+Diabetes,"Lower back pain, stiffness","Ginger Oil, Turmeric, Eucalyptus Oil",Powder with warm water daily
+Common Cold,"Hard stool, bloating","Ashoka, Lodhra, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Constipation,"Blurred vision, eye strain","Bael Fruit, Pomegranate, Ginger","Jamun seed powder with water, methi overnight water"
+Headache,"Overweight, fatigue","Guggul, Triphala, Honey",Powder with warm water daily
+Stress,"Severe headache, nausea","Neem, Turmeric, Aloe Vera",Oil massage and warm compress
+Arthritis,"Irregular periods, cramps","Ajwain, Ginger, Lemon",Juice or tea after meals
+Headache,"Anxiety, restlessness","Peppermint, Ginger, Coriander",Powder with warm water daily
+Arthritis,"Lower back pain, stiffness","Tulsi, Ginger, Honey, Black Pepper","Fennel tea after meals, amla juice"
+Hairfall,"Irregular periods, cramps","Amla, Bhringraj, Coconut Oil",Paste application and inhalation
+Menstrual Problems,"Breathlessness, chest tightness","Giloy, Tulsi, Ginger",Decoction twice daily
+Constipation,"High blood pressure, headache","Mulethi (Licorice), Honey, Ginger",Decoction twice daily
+Hypertension,"Overweight, fatigue","Jamun Seeds, Methi Seeds, Neem Leaves",Juice with honey twice daily
+Common Cold,"Bloating, gas, stomach ache, acidity","Neem, Turmeric, Aloe Vera",Herbal tea twice daily
+Fever,"Runny nose, sore throat, sneezing, cough","Triphala, Isabgol, Warm Water",Juice or decoction once daily
+Hairfall,"Lower back pain, stiffness","Ashwagandha, Turmeric, Ginger","Neem paste on affected area, turmeric in warm milk"
+Asthma,"Irregular periods, cramps","Vasaka, Tulsi, Ginger",Paste application and inhalation
+Diabetes,"Weak roots, dandruff, dryness","Guggul, Triphala, Honey",Mulethi powder with honey twice daily
+Cough,"Lower back pain, stiffness","Triphala, Isabgol, Warm Water",Juice or decoction once daily
+Asthma,"Severe headache, nausea","Ajwain, Ginger, Lemon",Triphala powder at night with warm water
+Common Cold,"Stress, sinus, tension","Ashwagandha, Turmeric, Ginger",Oil massage and warm compress
+Fever,"Bloating, gas, stomach ache, acidity","Mulethi (Licorice), Honey, Ginger",Herbal tea twice daily
+Menstrual Problems,"Burning sensation, chest pain, bloating","Bael Fruit, Pomegranate, Ginger",Tulsi tea with ginger & honey twice daily
+Cough,"High blood pressure, headache","Giloy, Tulsi, Ginger",Juice or tea after meals
+Migraine,"High blood sugar, frequent urination","Ashoka, Lodhra, Aloe Vera",Giloy juice with water daily
+Indigestion,Dry or wet cough,"Mulethi (Licorice), Honey, Ginger","Ajwain with warm water after meals, ginger tea"
+Cough,"Overweight, fatigue","Neem, Turmeric, Aloe Vera",Triphala powder at night with warm water
+Eye Problems,"Lower back pain, stiffness","Amla, Bhringraj, Coconut Oil",Tulsi tea with ginger & honey twice daily
+Migraine,"Loose motion, dehydration","Amla, Bhringraj, Coconut Oil",Giloy juice with water daily
+Acidity,"High blood pressure, headache","Ginger Oil, Turmeric, Eucalyptus Oil",Decoction twice daily
+Hypertension,"Overweight, fatigue","Mulethi (Licorice), Honey, Ginger","Neem paste on affected area, turmeric in warm milk"
+Common Cold,"Itching, redness, inflammation","Mulethi (Licorice), Honey, Ginger",Paste application and inhalation
+Diabetes,"Overweight, fatigue","Amla, Bhringraj, Coconut Oil",Herbal tea twice daily
+Headache,"Bloating, gas, stomach ache, acidity","Guggul, Triphala, Honey","Neem paste on affected area, turmeric in warm milk"
+Menstrual Problems,"Itching, redness, inflammation","Giloy, Tulsi, Ginger",Herbal capsule or tea twice daily
+Fever,"Irregular periods, cramps","Bael Fruit, Pomegranate, Ginger",Juice or powder in warm water
+Asthma,"Anxiety, restlessness","Vasaka, Tulsi, Ginger",Juice or decoction once daily
+Acidity,"Blurred vision, eye strain","Peppermint, Ginger, Coriander","Jamun seed powder with water, methi overnight water"
+Migraine,"Loose motion, dehydration","Garlic, Arjuna, Amla",Herbal capsule or tea twice daily
+Back Pain,Dry or wet cough,"Peppermint, Ginger, Coriander","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Constipation,"Severe headache, nausea","Garlic, Arjuna, Amla",Herbal capsule or tea twice daily
+Diarrhea,"Itching, redness, inflammation","Neem, Turmeric, Aloe Vera",Juice or powder in warm water
+Common Cold,"Burning sensation, chest pain, bloating","Jamun Seeds, Methi Seeds, Neem Leaves",Paste application and inhalation
+Skin Allergy,"Weak roots, dandruff, dryness","Brahmi, Peppermint, Eucalyptus Oil",Giloy juice with water daily
+Eye Problems,"Bloating, gas, stomach ache, acidity","Triphala, Amla, Honey",Powder with warm water daily
+Hairfall,"High blood pressure, headache","Ajwain, Ginger, Lemon","Ajwain with warm water after meals, ginger tea"
+Diabetes,"High temperature, body pain, weakness","Brahmi, Peppermint, Eucalyptus Oil","Fennel tea after meals, amla juice"
+Obesity,"Stress, sinus, tension","Brahmi, Ashwagandha, Shankhpushpi","Neem paste on affected area, turmeric in warm milk"
+Asthma,"High temperature, body pain, weakness","Bael Fruit, Pomegranate, Ginger",Giloy juice with water daily
+Constipation,Dry or wet cough,"Neem, Turmeric, Aloe Vera",Herbal capsule or tea twice daily
+Indigestion,"Irregular periods, cramps","Ajwain, Ginger, Lemon","Ajwain with warm water after meals, ginger tea"
+Back Pain,"Loose motion, dehydration","Vasaka, Tulsi, Ginger",Mulethi powder with honey twice daily
+Diabetes,"Runny nose, sore throat, sneezing, cough","Amla, Bhringraj, Coconut Oil",Tulsi tea with ginger & honey twice daily
+Hairfall,"Bloating, gas, stomach ache, acidity","Ajwain, Ginger, Lemon",Decoction twice daily
+Common Cold,"Blurred vision, eye strain","Ashoka, Lodhra, Aloe Vera",Juice or powder in warm water
+Indigestion,"Joint pain, swelling","Garlic, Arjuna, Amla",Juice or powder in warm water
+Constipation,"Lower back pain, stiffness","Neem, Turmeric, Aloe Vera","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Asthma,"Lower back pain, stiffness","Jamun Seeds, Methi Seeds, Neem Leaves","Neem paste on affected area, turmeric in warm milk"
+Hypertension,"Hard stool, bloating","Vasaka, Tulsi, Ginger",Juice or powder in warm water
+Headache,"Irregular periods, cramps","Mulethi (Licorice), Honey, Ginger",Paste application and inhalation
+Hairfall,"Stress, sinus, tension","Ajwain, Ginger, Lemon",Herbal tea twice daily
+Eye Problems,"Stress, sinus, tension","Vasaka, Tulsi, Ginger",Giloy juice with water daily
+Eye Problems,"Lower back pain, stiffness","Triphala, Amla, Honey","Fennel tea after meals, amla juice"
+Acidity,"Hard stool, bloating","Ginger Oil, Turmeric, Eucalyptus Oil","Ajwain with warm water after meals, ginger tea"
+Diarrhea,"Stress, sinus, tension","Bael Fruit, Pomegranate, Ginger",Juice or powder in warm water
+Asthma,"Stress, sinus, tension","Bael Fruit, Pomegranate, Ginger",Giloy juice with water daily
+Eye Problems,"Bloating, gas, stomach ache, acidity","Triphala, Isabgol, Warm Water","Ajwain with warm water after meals, ginger tea"
+Skin Allergy,Dry or wet cough,"Tulsi, Ginger, Honey, Black Pepper",Powder with warm water daily
+Menstrual Problems,"Severe headache, nausea","Garlic, Arjuna, Amla",Tulsi tea with ginger & honey twice daily
+Hypertension,"Overweight, fatigue","Garlic, Arjuna, Amla",Oil massage and warm compress
+Headache,"Overweight, fatigue","Triphala, Isabgol, Warm Water","Ajwain with warm water after meals, ginger tea"
+Diarrhea,"Loose motion, dehydration","Tulsi, Ginger, Honey, Black Pepper",Powder with warm water daily
+Back Pain,"Blurred vision, eye strain","Brahmi, Ashwagandha, Shankhpushpi",Oil massage and warm compress
+Asthma,"Severe headache, nausea","Peppermint, Ginger, Coriander",Mulethi powder with honey twice daily
+Asthma,"Bloating, gas, stomach ache, acidity","Jamun Seeds, Methi Seeds, Neem Leaves",Paste application and inhalation
+Migraine,"High blood pressure, headache","Bael Fruit, Pomegranate, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Migraine,"High temperature, body pain, weakness","Amla, Bhringraj, Coconut Oil",Juice with honey twice daily
+Headache,"Lower back pain, stiffness","Ajwain, Ginger, Lemon",Herbal capsule or tea twice daily
+Fever,"High blood pressure, headache","Ashwagandha, Turmeric, Ginger",Oil massage and warm compress
+Migraine,"Overweight, fatigue","Brahmi, Peppermint, Eucalyptus Oil","Fennel tea after meals, amla juice"
+Menstrual Problems,"Irregular periods, cramps","Mulethi (Licorice), Honey, Ginger",Decoction twice daily
+Back Pain,"Irregular periods, cramps","Brahmi, Peppermint, Eucalyptus Oil",Herbal capsule or tea twice daily
+Arthritis,"Breathlessness, chest tightness","Neem, Turmeric, Aloe Vera",Decoction twice daily
+Hairfall,"Hard stool, bloating","Triphala, Amla, Honey","Amla juice daily, bhringraj oil scalp massage"
+Diarrhea,"Stress, sinus, tension","Garlic, Arjuna, Amla",Juice or powder in warm water
+Asthma,"Hard stool, bloating","Peppermint, Ginger, Coriander","Neem paste on affected area, turmeric in warm milk"
+Fever,"Overweight, fatigue","Ashoka, Lodhra, Aloe Vera",Herbal tea twice daily
+Arthritis,"High blood pressure, headache","Fennel Seeds, Amla, Mint",Tulsi tea with ginger & honey twice daily
+Acidity,"High blood sugar, frequent urination","Ashoka, Lodhra, Aloe Vera",Paste application and inhalation
+Back Pain,"High blood sugar, frequent urination","Mulethi (Licorice), Honey, Ginger","Neem paste on affected area, turmeric in warm milk"
+Constipation,"Burning sensation, chest pain, bloating","Ashwagandha, Turmeric, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Acidity,"Joint pain, swelling","Ginger Oil, Turmeric, Eucalyptus Oil",Powder with warm water daily
+Menstrual Problems,"Runny nose, sore throat, sneezing, cough","Fennel Seeds, Amla, Mint","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Back Pain,"Stress, sinus, tension","Ginger Oil, Turmeric, Eucalyptus Oil",Herbal tea twice daily
+Skin Allergy,"Severe headache, nausea","Bael Fruit, Pomegranate, Ginger","Fennel tea after meals, amla juice"
+Hypertension,"Hard stool, bloating","Vasaka, Tulsi, Ginger",Decoction twice daily
+Diabetes,"Breathlessness, chest tightness","Mulethi (Licorice), Honey, Ginger",Powder with warm water daily
+Constipation,"Itching, redness, inflammation","Triphala, Amla, Honey","Jamun seed powder with water, methi overnight water"
+Constipation,"High temperature, body pain, weakness","Bael Fruit, Pomegranate, Ginger","Fennel tea after meals, amla juice"
+Acidity,"Severe headache, nausea","Tulsi, Ginger, Honey, Black Pepper",Mulethi powder with honey twice daily
+Skin Allergy,"Runny nose, sore throat, sneezing, cough","Ashoka, Lodhra, Aloe Vera",Giloy juice with water daily
+Headache,"Overweight, fatigue","Ashoka, Lodhra, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Eye Problems,"Irregular periods, cramps","Vasaka, Tulsi, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Constipation,"Bloating, gas, stomach ache, acidity","Guggul, Triphala, Honey",Triphala powder at night with warm water
+Back Pain,"High temperature, body pain, weakness","Brahmi, Peppermint, Eucalyptus Oil","Neem paste on affected area, turmeric in warm milk"
+Migraine,"High temperature, body pain, weakness","Garlic, Arjuna, Amla",Tulsi tea with ginger & honey twice daily
+Eye Problems,"Blurred vision, eye strain","Mulethi (Licorice), Honey, Ginger",Herbal capsule or tea twice daily
+Arthritis,"Lower back pain, stiffness","Ashoka, Lodhra, Aloe Vera","Jamun seed powder with water, methi overnight water"
+Fever,"Joint pain, swelling","Jamun Seeds, Methi Seeds, Neem Leaves","Neem paste on affected area, turmeric in warm milk"
+Acidity,"Breathlessness, chest tightness","Brahmi, Peppermint, Eucalyptus Oil",Oil massage and warm compress
+Asthma,"Joint pain, swelling","Tulsi, Ginger, Honey, Black Pepper",Juice or powder in warm water
+Headache,"Loose motion, dehydration","Giloy, Tulsi, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Stress,"Weak roots, dandruff, dryness","Ashoka, Lodhra, Aloe Vera",Herbal capsule or tea twice daily
+Asthma,"High blood sugar, frequent urination","Ajwain, Ginger, Lemon","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Diarrhea,"Joint pain, swelling","Brahmi, Ashwagandha, Shankhpushpi",Mulethi powder with honey twice daily
+Constipation,"Anxiety, restlessness","Peppermint, Ginger, Coriander",Herbal tea twice daily
+Stress,"Loose motion, dehydration","Vasaka, Tulsi, Ginger","Fennel tea after meals, amla juice"
+Skin Allergy,"High blood pressure, headache","Giloy, Tulsi, Ginger",Juice or decoction once daily
+Skin Allergy,"Runny nose, sore throat, sneezing, cough","Amla, Bhringraj, Coconut Oil",Herbal tea twice daily
+Menstrual Problems,Dry or wet cough,"Brahmi, Peppermint, Eucalyptus Oil",Oil massage and warm compress
+Cough,"Irregular periods, cramps","Giloy, Tulsi, Ginger","Jamun seed powder with water, methi overnight water"
+Migraine,"Blurred vision, eye strain","Brahmi, Peppermint, Eucalyptus Oil",Juice or powder in warm water
+Headache,"Runny nose, sore throat, sneezing, cough","Neem, Turmeric, Aloe Vera","Amla juice daily, bhringraj oil scalp massage"
+Diabetes,"Irregular periods, cramps","Ashwagandha, Turmeric, Ginger","Fennel tea after meals, amla juice"
+Cough,"Burning sensation, chest pain, bloating","Ashwagandha, Turmeric, Ginger",Herbal capsule or tea twice daily
+Constipation,"Breathlessness, chest tightness","Brahmi, Ashwagandha, Shankhpushpi",Decoction twice daily
+Constipation,"Severe headache, nausea","Triphala, Isabgol, Warm Water",Oil massage and warm compress
+Hypertension,Dry or wet cough,"Fennel Seeds, Amla, Mint",Mulethi powder with honey twice daily
+Skin Allergy,"Burning sensation, chest pain, bloating","Brahmi, Ashwagandha, Shankhpushpi",Juice or powder in warm water
+Common Cold,"High temperature, body pain, weakness","Triphala, Amla, Honey",Juice or tea after meals
+Hairfall,Dry or wet cough,"Tulsi, Ginger, Honey, Black Pepper",Decoction twice daily
+Hairfall,"Burning sensation, chest pain, bloating","Ashwagandha, Turmeric, Ginger",Powder with warm water daily
+Common Cold,"Overweight, fatigue","Fennel Seeds, Amla, Mint",Triphala powder at night with warm water
+Acidity,"High temperature, body pain, weakness","Brahmi, Peppermint, Eucalyptus Oil",Juice with honey twice daily
+Skin Allergy,"Bloating, gas, stomach ache, acidity","Triphala, Isabgol, Warm Water",Mulethi powder with honey twice daily
+Headache,Dry or wet cough,"Brahmi, Peppermint, Eucalyptus Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Menstrual Problems,"Irregular periods, cramps","Vasaka, Tulsi, Ginger",Powder with warm water daily
+Eye Problems,"Breathlessness, chest tightness","Amla, Bhringraj, Coconut Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Constipation,"Weak roots, dandruff, dryness","Fennel Seeds, Amla, Mint",Triphala powder at night with warm water
+Skin Allergy,"Joint pain, swelling","Triphala, Isabgol, Warm Water",Mulethi powder with honey twice daily
+Common Cold,"Breathlessness, chest tightness","Fennel Seeds, Amla, Mint",Oil massage and warm compress
+Arthritis,"High blood sugar, frequent urination","Neem, Turmeric, Aloe Vera","Jamun seed powder with water, methi overnight water"
+Stress,Dry or wet cough,"Amla, Bhringraj, Coconut Oil",Mulethi powder with honey twice daily
+Common Cold,"High blood pressure, headache","Peppermint, Ginger, Coriander","Amla juice daily, bhringraj oil scalp massage"
+Hypertension,"Joint pain, swelling","Triphala, Isabgol, Warm Water",Giloy juice with water daily
+Menstrual Problems,"High temperature, body pain, weakness","Peppermint, Ginger, Coriander",Herbal capsule or tea twice daily
+Obesity,"Stress, sinus, tension","Ashwagandha, Turmeric, Ginger","Jamun seed powder with water, methi overnight water"
+Migraine,"Irregular periods, cramps","Bael Fruit, Pomegranate, Ginger",Mulethi powder with honey twice daily
+Cough,"Loose motion, dehydration","Jamun Seeds, Methi Seeds, Neem Leaves",Giloy juice with water daily
+Eye Problems,"Burning sensation, chest pain, bloating","Tulsi, Ginger, Honey, Black Pepper",Juice or decoction once daily
+Migraine,"Breathlessness, chest tightness","Jamun Seeds, Methi Seeds, Neem Leaves",Paste application and inhalation
+Fever,"Breathlessness, chest tightness","Vasaka, Tulsi, Ginger","Amla juice daily, bhringraj oil scalp massage"
+Diabetes,"Burning sensation, chest pain, bloating","Triphala, Amla, Honey","Amla juice daily, bhringraj oil scalp massage"
+Acidity,"Overweight, fatigue","Garlic, Arjuna, Amla","Fennel tea after meals, amla juice"
+Migraine,"Itching, redness, inflammation","Jamun Seeds, Methi Seeds, Neem Leaves",Juice or tea after meals
+Arthritis,"Hard stool, bloating","Ginger Oil, Turmeric, Eucalyptus Oil","Neem paste on affected area, turmeric in warm milk"
+Stress,"Blurred vision, eye strain","Fennel Seeds, Amla, Mint",Powder with warm water daily
+Migraine,"Burning sensation, chest pain, bloating","Ajwain, Ginger, Lemon",Giloy juice with water daily
+Menstrual Problems,"Hard stool, bloating","Garlic, Arjuna, Amla",Paste application and inhalation
+Hairfall,"Blurred vision, eye strain","Triphala, Isabgol, Warm Water","Jamun seed powder with water, methi overnight water"
+Hypertension,"Weak roots, dandruff, dryness","Brahmi, Peppermint, Eucalyptus Oil","Ajwain with warm water after meals, ginger tea"
+Back Pain,"Bloating, gas, stomach ache, acidity","Fennel Seeds, Amla, Mint","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Fever,"Loose motion, dehydration","Giloy, Tulsi, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Arthritis,"Hard stool, bloating","Neem, Turmeric, Aloe Vera",Herbal tea twice daily
+Asthma,"Blurred vision, eye strain","Jamun Seeds, Methi Seeds, Neem Leaves",Tulsi tea with ginger & honey twice daily
+Stress,"Irregular periods, cramps","Mulethi (Licorice), Honey, Ginger",Powder with warm water daily
+Asthma,"Weak roots, dandruff, dryness","Neem, Turmeric, Aloe Vera","Fennel tea after meals, amla juice"
+Acidity,"High temperature, body pain, weakness","Triphala, Isabgol, Warm Water",Herbal capsule or tea twice daily
+Skin Allergy,"High blood pressure, headache","Ginger Oil, Turmeric, Eucalyptus Oil",Giloy juice with water daily
+Asthma,Dry or wet cough,"Triphala, Amla, Honey",Decoction twice daily
+Constipation,"Bloating, gas, stomach ache, acidity","Brahmi, Peppermint, Eucalyptus Oil",Paste application and inhalation
+Obesity,"Blurred vision, eye strain","Neem, Turmeric, Aloe Vera",Giloy juice with water daily
+Acidity,"Loose motion, dehydration","Ginger Oil, Turmeric, Eucalyptus Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Hypertension,"Weak roots, dandruff, dryness","Giloy, Tulsi, Ginger",Herbal tea twice daily
+Arthritis,"Joint pain, swelling","Garlic, Arjuna, Amla","Amla juice daily, bhringraj oil scalp massage"
+Asthma,"Overweight, fatigue","Jamun Seeds, Methi Seeds, Neem Leaves",Tulsi tea with ginger & honey twice daily
+Common Cold,"Bloating, gas, stomach ache, acidity","Brahmi, Peppermint, Eucalyptus Oil",Decoction twice daily
+Headache,"Weak roots, dandruff, dryness","Jamun Seeds, Methi Seeds, Neem Leaves",Decoction twice daily
+Menstrual Problems,"Overweight, fatigue","Garlic, Arjuna, Amla",Decoction twice daily
+Asthma,"Blurred vision, eye strain","Neem, Turmeric, Aloe Vera",Decoction twice daily
+Eye Problems,"High temperature, body pain, weakness","Jamun Seeds, Methi Seeds, Neem Leaves",Juice or decoction once daily
+Headache,Dry or wet cough,"Amla, Bhringraj, Coconut Oil",Oil massage and warm compress
+Headache,"Loose motion, dehydration","Triphala, Amla, Honey",Giloy juice with water daily
+Hypertension,"Lower back pain, stiffness","Bael Fruit, Pomegranate, Ginger",Juice or powder in warm water
+Hairfall,"Irregular periods, cramps","Brahmi, Peppermint, Eucalyptus Oil",Herbal tea twice daily
+Stress,"Loose motion, dehydration","Ajwain, Ginger, Lemon","Amla juice daily, bhringraj oil scalp massage"
+Common Cold,"Burning sensation, chest pain, bloating","Guggul, Triphala, Honey",Tulsi tea with ginger & honey twice daily
+Cough,"Breathlessness, chest tightness","Triphala, Amla, Honey","Amla juice daily, bhringraj oil scalp massage"
+Stress,"Hard stool, bloating","Bael Fruit, Pomegranate, Ginger","Ajwain with warm water after meals, ginger tea"
+Cough,"Weak roots, dandruff, dryness","Tulsi, Ginger, Honey, Black Pepper",Juice or tea after meals
+Eye Problems,"Stress, sinus, tension","Triphala, Amla, Honey",Herbal tea twice daily
+Diabetes,"Irregular periods, cramps","Giloy, Tulsi, Ginger",Oil massage and warm compress
+Constipation,"Burning sensation, chest pain, bloating","Ginger Oil, Turmeric, Eucalyptus Oil","Neem paste on affected area, turmeric in warm milk"
+Menstrual Problems,"Lower back pain, stiffness","Triphala, Isabgol, Warm Water",Oil massage and warm compress
+Hairfall,"High blood pressure, headache","Brahmi, Ashwagandha, Shankhpushpi","Ajwain with warm water after meals, ginger tea"
+Fever,"Lower back pain, stiffness","Ashoka, Lodhra, Aloe Vera",Powder with warm water daily
+Hairfall,"Hard stool, bloating","Mulethi (Licorice), Honey, Ginger",Decoction twice daily
+Obesity,"Breathlessness, chest tightness","Ashwagandha, Turmeric, Ginger",Juice or powder in warm water
+Obesity,"Irregular periods, cramps","Tulsi, Ginger, Honey, Black Pepper",Decoction twice daily
+Obesity,"Irregular periods, cramps","Fennel Seeds, Amla, Mint",Juice or tea after meals
+Migraine,"Joint pain, swelling","Neem, Turmeric, Aloe Vera","Amla juice daily, bhringraj oil scalp massage"
+Stress,"Bloating, gas, stomach ache, acidity","Giloy, Tulsi, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Asthma,"High blood sugar, frequent urination","Guggul, Triphala, Honey",Giloy juice with water daily
+Obesity,"Breathlessness, chest tightness","Tulsi, Ginger, Honey, Black Pepper",Juice with honey twice daily
+Asthma,"Irregular periods, cramps","Neem, Turmeric, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Stress,"High temperature, body pain, weakness","Ashwagandha, Turmeric, Ginger",Juice or decoction once daily
+Acidity,"Lower back pain, stiffness","Brahmi, Peppermint, Eucalyptus Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Indigestion,"Blurred vision, eye strain","Jamun Seeds, Methi Seeds, Neem Leaves","Jamun seed powder with water, methi overnight water"
+Back Pain,"Runny nose, sore throat, sneezing, cough","Triphala, Isabgol, Warm Water",Tulsi tea with ginger & honey twice daily
+Headache,"Runny nose, sore throat, sneezing, cough","Bael Fruit, Pomegranate, Ginger",Juice or tea after meals
+Eye Problems,"Lower back pain, stiffness","Jamun Seeds, Methi Seeds, Neem Leaves",Juice with honey twice daily
+Stress,Dry or wet cough,"Peppermint, Ginger, Coriander",Juice or powder in warm water
+Diarrhea,Dry or wet cough,"Amla, Bhringraj, Coconut Oil",Powder with warm water daily
+Constipation,"Breathlessness, chest tightness","Ashwagandha, Turmeric, Ginger","Ajwain with warm water after meals, ginger tea"
+Stress,"Lower back pain, stiffness","Triphala, Amla, Honey","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Indigestion,"Lower back pain, stiffness","Triphala, Amla, Honey",Tulsi tea with ginger & honey twice daily
+Constipation,"Itching, redness, inflammation","Peppermint, Ginger, Coriander",Juice with honey twice daily
+Eye Problems,"Burning sensation, chest pain, bloating","Guggul, Triphala, Honey",Juice or decoction once daily
+Diarrhea,"Burning sensation, chest pain, bloating","Peppermint, Ginger, Coriander","Amla juice daily, bhringraj oil scalp massage"
+Headache,"High blood pressure, headache","Brahmi, Ashwagandha, Shankhpushpi",Giloy juice with water daily
+Headache,"Burning sensation, chest pain, bloating","Ginger Oil, Turmeric, Eucalyptus Oil","Ajwain with warm water after meals, ginger tea"
+Diarrhea,"High temperature, body pain, weakness","Mulethi (Licorice), Honey, Ginger",Herbal capsule or tea twice daily
+Headache,"High blood sugar, frequent urination","Garlic, Arjuna, Amla",Powder with warm water daily
+Eye Problems,"Runny nose, sore throat, sneezing, cough","Ashoka, Lodhra, Aloe Vera",Tulsi tea with ginger & honey twice daily
+Stress,"Stress, sinus, tension","Mulethi (Licorice), Honey, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Constipation,"Hard stool, bloating","Giloy, Tulsi, Ginger",Mulethi powder with honey twice daily
+Back Pain,"Severe headache, nausea","Amla, Bhringraj, Coconut Oil",Giloy juice with water daily
+Headache,"Overweight, fatigue","Ashwagandha, Turmeric, Ginger",Triphala powder at night with warm water
+Arthritis,"Burning sensation, chest pain, bloating","Garlic, Arjuna, Amla",Giloy juice with water daily
+Skin Allergy,"Hard stool, bloating","Tulsi, Ginger, Honey, Black Pepper","Amla juice daily, bhringraj oil scalp massage"
+Back Pain,"Lower back pain, stiffness","Brahmi, Peppermint, Eucalyptus Oil",Mulethi powder with honey twice daily
+Arthritis,"Runny nose, sore throat, sneezing, cough","Neem, Turmeric, Aloe Vera",Decoction twice daily
+Obesity,Dry or wet cough,"Bael Fruit, Pomegranate, Ginger",Juice or decoction once daily
+Obesity,"High blood sugar, frequent urination","Triphala, Amla, Honey",Herbal tea twice daily
+Obesity,"Irregular periods, cramps","Fennel Seeds, Amla, Mint",Decoction twice daily
+Diarrhea,"Loose motion, dehydration","Garlic, Arjuna, Amla",Oil massage and warm compress
+Diarrhea,"Burning sensation, chest pain, bloating","Giloy, Tulsi, Ginger",Tulsi tea with ginger & honey twice daily
+Indigestion,"Hard stool, bloating","Brahmi, Peppermint, Eucalyptus Oil","Ajwain with warm water after meals, ginger tea"
+Constipation,"Severe headache, nausea","Mulethi (Licorice), Honey, Ginger",Oil massage and warm compress
+Cough,"Stress, sinus, tension","Ajwain, Ginger, Lemon",Decoction twice daily
+Common Cold,"Breathlessness, chest tightness","Mulethi (Licorice), Honey, Ginger","Jamun seed powder with water, methi overnight water"
+Hairfall,"Overweight, fatigue","Ashoka, Lodhra, Aloe Vera",Juice or powder in warm water
+Back Pain,"Breathlessness, chest tightness","Brahmi, Ashwagandha, Shankhpushpi",Juice or tea after meals
+Arthritis,"Severe headache, nausea","Triphala, Isabgol, Warm Water",Juice or decoction once daily
+Eye Problems,"Anxiety, restlessness","Mulethi (Licorice), Honey, Ginger","Jamun seed powder with water, methi overnight water"
+Back Pain,"Stress, sinus, tension","Ashoka, Lodhra, Aloe Vera",Juice or decoction once daily
+Eye Problems,"Severe headache, nausea","Garlic, Arjuna, Amla",Decoction twice daily
+Diabetes,"Bloating, gas, stomach ache, acidity","Jamun Seeds, Methi Seeds, Neem Leaves",Juice or decoction once daily
+Migraine,"Severe headache, nausea","Garlic, Arjuna, Amla",Tulsi tea with ginger & honey twice daily
+Indigestion,"High blood pressure, headache","Brahmi, Peppermint, Eucalyptus Oil","Amla juice daily, bhringraj oil scalp massage"
+Hairfall,"Loose motion, dehydration","Garlic, Arjuna, Amla","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Hairfall,"Breathlessness, chest tightness","Ajwain, Ginger, Lemon","Amla juice daily, bhringraj oil scalp massage"
+Cough,"Burning sensation, chest pain, bloating","Ginger Oil, Turmeric, Eucalyptus Oil","Neem paste on affected area, turmeric in warm milk"
+Indigestion,"High temperature, body pain, weakness","Neem, Turmeric, Aloe Vera",Triphala powder at night with warm water
+Acidity,"High temperature, body pain, weakness","Triphala, Isabgol, Warm Water",Powder with warm water daily
+Obesity,Dry or wet cough,"Ginger Oil, Turmeric, Eucalyptus Oil",Triphala powder at night with warm water
+Asthma,"Hard stool, bloating","Garlic, Arjuna, Amla",Paste application and inhalation
+Asthma,"Weak roots, dandruff, dryness","Mulethi (Licorice), Honey, Ginger",Herbal capsule or tea twice daily
+Asthma,Dry or wet cough,"Tulsi, Ginger, Honey, Black Pepper",Mulethi powder with honey twice daily
+Indigestion,"Weak roots, dandruff, dryness","Ajwain, Ginger, Lemon",Mulethi powder with honey twice daily
+Constipation,"Blurred vision, eye strain","Jamun Seeds, Methi Seeds, Neem Leaves",Juice with honey twice daily
+Skin Allergy,"Breathlessness, chest tightness","Neem, Turmeric, Aloe Vera",Juice or decoction once daily
+Fever,"Weak roots, dandruff, dryness","Mulethi (Licorice), Honey, Ginger",Tulsi tea with ginger & honey twice daily
+Hypertension,"Breathlessness, chest tightness","Triphala, Amla, Honey",Herbal capsule or tea twice daily
+Acidity,"Breathlessness, chest tightness","Ashoka, Lodhra, Aloe Vera","Ajwain with warm water after meals, ginger tea"
+Menstrual Problems,"Hard stool, bloating","Brahmi, Peppermint, Eucalyptus Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Asthma,"Bloating, gas, stomach ache, acidity","Peppermint, Ginger, Coriander",Paste application and inhalation
+Asthma,"Joint pain, swelling","Ashoka, Lodhra, Aloe Vera","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Cough,Dry or wet cough,"Bael Fruit, Pomegranate, Ginger",Paste application and inhalation
+Back Pain,"High temperature, body pain, weakness","Neem, Turmeric, Aloe Vera",Tulsi tea with ginger & honey twice daily
+Diarrhea,"Irregular periods, cramps","Neem, Turmeric, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Constipation,"Itching, redness, inflammation","Guggul, Triphala, Honey",Mulethi powder with honey twice daily
+Obesity,"Weak roots, dandruff, dryness","Neem, Turmeric, Aloe Vera","Fennel tea after meals, amla juice"
+Diarrhea,"Lower back pain, stiffness","Mulethi (Licorice), Honey, Ginger","Ajwain with warm water after meals, ginger tea"
+Obesity,"Stress, sinus, tension","Tulsi, Ginger, Honey, Black Pepper","Jamun seed powder with water, methi overnight water"
+Menstrual Problems,"Stress, sinus, tension","Garlic, Arjuna, Amla",Mulethi powder with honey twice daily
+Hairfall,"Severe headache, nausea","Neem, Turmeric, Aloe Vera",Mulethi powder with honey twice daily
+Hypertension,"Irregular periods, cramps","Bael Fruit, Pomegranate, Ginger","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Acidity,"Weak roots, dandruff, dryness","Peppermint, Ginger, Coriander",Mulethi powder with honey twice daily
+Eye Problems,"Severe headache, nausea","Brahmi, Ashwagandha, Shankhpushpi",Giloy juice with water daily
+Headache,"Blurred vision, eye strain","Garlic, Arjuna, Amla",Powder with warm water daily
+Diabetes,"High temperature, body pain, weakness","Vasaka, Tulsi, Ginger",Giloy juice with water daily
+Acidity,"Irregular periods, cramps","Ginger Oil, Turmeric, Eucalyptus Oil",Decoction twice daily
+Skin Allergy,"Irregular periods, cramps","Mulethi (Licorice), Honey, Ginger",Mulethi powder with honey twice daily
+Stress,"High temperature, body pain, weakness","Triphala, Isabgol, Warm Water",Herbal tea twice daily
+Diabetes,"High blood pressure, headache","Neem, Turmeric, Aloe Vera",Decoction twice daily
+Eye Problems,"Lower back pain, stiffness","Fennel Seeds, Amla, Mint",Herbal capsule or tea twice daily
+Hairfall,"Blurred vision, eye strain","Tulsi, Ginger, Honey, Black Pepper",Triphala powder at night with warm water
+Diarrhea,"Runny nose, sore throat, sneezing, cough","Amla, Bhringraj, Coconut Oil",Paste application and inhalation
+Cough,"Overweight, fatigue","Guggul, Triphala, Honey",Decoction twice daily
+Fever,"Hard stool, bloating","Garlic, Arjuna, Amla",Tulsi tea with ginger & honey twice daily
+Skin Allergy,"Anxiety, restlessness","Triphala, Isabgol, Warm Water","Jamun seed powder with water, methi overnight water"
+Skin Allergy,"Overweight, fatigue","Ashwagandha, Turmeric, Ginger",Juice or tea after meals
+Asthma,"Joint pain, swelling","Brahmi, Ashwagandha, Shankhpushpi",Herbal capsule or tea twice daily
+Hypertension,"Lower back pain, stiffness","Peppermint, Ginger, Coriander",Decoction twice daily
+Constipation,"Weak roots, dandruff, dryness","Amla, Bhringraj, Coconut Oil","Amla juice daily, bhringraj oil scalp massage"
+Hypertension,"Severe headache, nausea","Brahmi, Peppermint, Eucalyptus Oil",Mulethi powder with honey twice daily
+Constipation,"Overweight, fatigue","Tulsi, Ginger, Honey, Black Pepper",Decoction twice daily
+Menstrual Problems,"Itching, redness, inflammation","Brahmi, Ashwagandha, Shankhpushpi",Giloy juice with water daily
+Headache,"Itching, redness, inflammation","Neem, Turmeric, Aloe Vera",Triphala powder at night with warm water
+Obesity,"Loose motion, dehydration","Peppermint, Ginger, Coriander","Fennel tea after meals, amla juice"
+Hairfall,"Weak roots, dandruff, dryness","Triphala, Isabgol, Warm Water",Juice or powder in warm water
+Menstrual Problems,"Anxiety, restlessness","Triphala, Amla, Honey",Triphala powder at night with warm water
+Back Pain,"High temperature, body pain, weakness","Garlic, Arjuna, Amla",Juice with honey twice daily
+Diarrhea,"Bloating, gas, stomach ache, acidity","Ashwagandha, Turmeric, Ginger",Juice or decoction once daily
+Obesity,"High temperature, body pain, weakness","Garlic, Arjuna, Amla",Paste application and inhalation
+Cough,Dry or wet cough,"Giloy, Tulsi, Ginger",Oil massage and warm compress
+Obesity,"Irregular periods, cramps","Jamun Seeds, Methi Seeds, Neem Leaves",Paste application and inhalation
+Asthma,"Irregular periods, cramps","Ginger Oil, Turmeric, Eucalyptus Oil",Decoction twice daily
+Obesity,"Joint pain, swelling","Triphala, Amla, Honey","Amla juice daily, bhringraj oil scalp massage"
+Cough,Dry or wet cough,"Ashwagandha, Turmeric, Ginger",Herbal tea twice daily
+Common Cold,Dry or wet cough,"Garlic, Arjuna, Amla",Herbal capsule or tea twice daily
+Acidity,"Lower back pain, stiffness","Brahmi, Ashwagandha, Shankhpushpi","Jamun seed powder with water, methi overnight water"
+Cough,"Stress, sinus, tension","Brahmi, Peppermint, Eucalyptus Oil","Jamun seed powder with water, methi overnight water"
+Common Cold,"Breathlessness, chest tightness","Ashoka, Lodhra, Aloe Vera",Mulethi powder with honey twice daily
+Menstrual Problems,"High blood pressure, headache","Ashoka, Lodhra, Aloe Vera","Fennel tea after meals, amla juice"
+Acidity,"Severe headache, nausea","Neem, Turmeric, Aloe Vera",Oil massage and warm compress
+Arthritis,"Stress, sinus, tension","Ashoka, Lodhra, Aloe Vera",Juice or decoction once daily
+Diarrhea,"Runny nose, sore throat, sneezing, cough","Jamun Seeds, Methi Seeds, Neem Leaves",Juice with honey twice daily
+Acidity,"Breathlessness, chest tightness","Brahmi, Peppermint, Eucalyptus Oil",Juice or tea after meals
+Fever,"Burning sensation, chest pain, bloating","Triphala, Amla, Honey","Jamun seed powder with water, methi overnight water"
+Stress,"Loose motion, dehydration","Triphala, Isabgol, Warm Water",Herbal capsule or tea twice daily
+Hairfall,Dry or wet cough,"Amla, Bhringraj, Coconut Oil","Neem paste on affected area, turmeric in warm milk"
+Skin Allergy,"Hard stool, bloating","Triphala, Isabgol, Warm Water",Juice with honey twice daily
+Skin Allergy,"Stress, sinus, tension","Brahmi, Ashwagandha, Shankhpushpi",Giloy juice with water daily
+Diarrhea,"Anxiety, restlessness","Mulethi (Licorice), Honey, Ginger",Juice or decoction once daily
+Migraine,"Loose motion, dehydration","Ginger Oil, Turmeric, Eucalyptus Oil",Juice or decoction once daily
+Arthritis,"High blood pressure, headache","Brahmi, Ashwagandha, Shankhpushpi","Amla juice daily, bhringraj oil scalp massage"
+Migraine,"Itching, redness, inflammation","Guggul, Triphala, Honey",Paste application and inhalation
+Constipation,"Lower back pain, stiffness","Giloy, Tulsi, Ginger",Juice or tea after meals
+Constipation,"Burning sensation, chest pain, bloating","Ashoka, Lodhra, Aloe Vera","Fennel tea after meals, amla juice"
+Common Cold,"High blood sugar, frequent urination","Neem, Turmeric, Aloe Vera",Juice or decoction once daily
+Headache,"Itching, redness, inflammation","Ajwain, Ginger, Lemon","Fennel tea after meals, amla juice"
+Eye Problems,"High blood pressure, headache","Giloy, Tulsi, Ginger",Oil massage and warm compress
+Constipation,"Overweight, fatigue","Peppermint, Ginger, Coriander",Juice or powder in warm water
+Back Pain,"Stress, sinus, tension","Jamun Seeds, Methi Seeds, Neem Leaves",Juice with honey twice daily
+Back Pain,"High blood pressure, headache","Neem, Turmeric, Aloe Vera",Herbal tea twice daily
+Back Pain,"Blurred vision, eye strain","Brahmi, Ashwagandha, Shankhpushpi",Giloy juice with water daily
+Indigestion,"Severe headache, nausea","Triphala, Amla, Honey",Paste application and inhalation
+Diabetes,"Bloating, gas, stomach ache, acidity","Brahmi, Peppermint, Eucalyptus Oil",Tulsi tea with ginger & honey twice daily
+Diarrhea,"High blood sugar, frequent urination","Bael Fruit, Pomegranate, Ginger",Triphala powder at night with warm water
+Common Cold,"Loose motion, dehydration","Bael Fruit, Pomegranate, Ginger",Tulsi tea with ginger & honey twice daily
+Skin Allergy,"Blurred vision, eye strain","Ginger Oil, Turmeric, Eucalyptus Oil",Powder with warm water daily
+Cough,"Stress, sinus, tension","Ginger Oil, Turmeric, Eucalyptus Oil",Giloy juice with water daily
+Constipation,"Overweight, fatigue","Peppermint, Ginger, Coriander",Tulsi tea with ginger & honey twice daily
+Constipation,"Bloating, gas, stomach ache, acidity","Ginger Oil, Turmeric, Eucalyptus Oil",Juice with honey twice daily
+Headache,"Hard stool, bloating","Brahmi, Peppermint, Eucalyptus Oil",Decoction twice daily
+Acidity,"Blurred vision, eye strain","Guggul, Triphala, Honey","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Arthritis,"Severe headache, nausea","Peppermint, Ginger, Coriander","Neem paste on affected area, turmeric in warm milk"
+Eye Problems,"High blood sugar, frequent urination","Triphala, Isabgol, Warm Water",Powder with warm water daily
+Common Cold,"Itching, redness, inflammation","Vasaka, Tulsi, Ginger",Giloy juice with water daily
+Common Cold,"Irregular periods, cramps","Tulsi, Ginger, Honey, Black Pepper",Juice or tea after meals
+Eye Problems,"Anxiety, restlessness","Jamun Seeds, Methi Seeds, Neem Leaves",Tulsi tea with ginger & honey twice daily
+Arthritis,"Bloating, gas, stomach ache, acidity","Guggul, Triphala, Honey","Fennel tea after meals, amla juice"
+Cough,"Irregular periods, cramps","Triphala, Isabgol, Warm Water","Jamun seed powder with water, methi overnight water"
+Headache,"High temperature, body pain, weakness","Tulsi, Ginger, Honey, Black Pepper",Triphala powder at night with warm water
+Constipation,"Bloating, gas, stomach ache, acidity","Triphala, Isabgol, Warm Water","Fennel tea after meals, amla juice"
+Asthma,"High temperature, body pain, weakness","Garlic, Arjuna, Amla","Fennel tea after meals, amla juice"
+Menstrual Problems,"Bloating, gas, stomach ache, acidity","Brahmi, Ashwagandha, Shankhpushpi","Fennel tea after meals, amla juice"
+Eye Problems,"Breathlessness, chest tightness","Tulsi, Ginger, Honey, Black Pepper",Juice or tea after meals
+Stress,"Hard stool, bloating","Triphala, Amla, Honey",Oil massage and warm compress
+Obesity,"Anxiety, restlessness","Neem, Turmeric, Aloe Vera",Oil massage and warm compress
+Fever,"High blood sugar, frequent urination","Triphala, Isabgol, Warm Water","Jamun seed powder with water, methi overnight water"
+Diabetes,"Runny nose, sore throat, sneezing, cough","Triphala, Amla, Honey",Giloy juice with water daily
+Common Cold,"Overweight, fatigue","Tulsi, Ginger, Honey, Black Pepper",Triphala powder at night with warm water
+Back Pain,"Stress, sinus, tension","Mulethi (Licorice), Honey, Ginger",Juice or decoction once daily
+Hairfall,"Loose motion, dehydration","Peppermint, Ginger, Coriander","Fennel tea after meals, amla juice"
+Back Pain,"Anxiety, restlessness","Ginger Oil, Turmeric, Eucalyptus Oil",Juice or decoction once daily
+Hypertension,"High blood pressure, headache","Ajwain, Ginger, Lemon",Mulethi powder with honey twice daily
+Cough,"Blurred vision, eye strain","Neem, Turmeric, Aloe Vera","Ajwain with warm water after meals, ginger tea"
+Hairfall,"Blurred vision, eye strain","Tulsi, Ginger, Honey, Black Pepper",Juice or powder in warm water
+Hypertension,"Blurred vision, eye strain","Ashwagandha, Turmeric, Ginger",Mulethi powder with honey twice daily
+Migraine,Dry or wet cough,"Ginger Oil, Turmeric, Eucalyptus Oil","Jamun seed powder with water, methi overnight water"
+Hairfall,Dry or wet cough,"Vasaka, Tulsi, Ginger",Herbal capsule or tea twice daily
+Menstrual Problems,"Bloating, gas, stomach ache, acidity","Garlic, Arjuna, Amla",Mulethi powder with honey twice daily
+Arthritis,"Burning sensation, chest pain, bloating","Brahmi, Ashwagandha, Shankhpushpi","Ajwain with warm water after meals, ginger tea"
+Cough,"Irregular periods, cramps","Tulsi, Ginger, Honey, Black Pepper",Herbal tea twice daily
+Stress,"Hard stool, bloating","Ginger Oil, Turmeric, Eucalyptus Oil",Juice with honey twice daily
+Back Pain,"Severe headache, nausea","Ginger Oil, Turmeric, Eucalyptus Oil",Juice or decoction once daily
+Eye Problems,"Loose motion, dehydration","Brahmi, Ashwagandha, Shankhpushpi",Mulethi powder with honey twice daily
+Fever,"Loose motion, dehydration","Tulsi, Ginger, Honey, Black Pepper",Juice or powder in warm water
+Hairfall,"Burning sensation, chest pain, bloating","Ashwagandha, Turmeric, Ginger",Paste application and inhalation
+Hairfall,"Lower back pain, stiffness","Brahmi, Ashwagandha, Shankhpushpi",Triphala powder at night with warm water
+Asthma,"Loose motion, dehydration","Triphala, Isabgol, Warm Water",Juice or tea after meals
+Arthritis,"Joint pain, swelling","Ajwain, Ginger, Lemon",Triphala powder at night with warm water
+Cough,"Stress, sinus, tension","Mulethi (Licorice), Honey, Ginger","Neem paste on affected area, turmeric in warm milk"
+Obesity,"High blood pressure, headache","Brahmi, Peppermint, Eucalyptus Oil",Herbal tea twice daily
+Cough,"Weak roots, dandruff, dryness","Triphala, Amla, Honey",Paste application and inhalation
+Arthritis,"Bloating, gas, stomach ache, acidity","Fennel Seeds, Amla, Mint",Oil massage and warm compress
+Stress,"Anxiety, restlessness","Garlic, Arjuna, Amla",Herbal capsule or tea twice daily
+Diabetes,"High blood sugar, frequent urination","Triphala, Amla, Honey",Juice or decoction once daily
+Diarrhea,"High temperature, body pain, weakness","Bael Fruit, Pomegranate, Ginger",Juice with honey twice daily
+Hairfall,"Breathlessness, chest tightness","Brahmi, Ashwagandha, Shankhpushpi",Triphala powder at night with warm water
+Back Pain,"Joint pain, swelling","Ashoka, Lodhra, Aloe Vera",Herbal capsule or tea twice daily
+Obesity,"Burning sensation, chest pain, bloating","Brahmi, Ashwagandha, Shankhpushpi","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Hairfall,"Overweight, fatigue","Amla, Bhringraj, Coconut Oil",Herbal tea twice daily
+Menstrual Problems,"Hard stool, bloating","Ashoka, Lodhra, Aloe Vera","Neem paste on affected area, turmeric in warm milk"
+Diarrhea,"Weak roots, dandruff, dryness","Tulsi, Ginger, Honey, Black Pepper","Ajwain with warm water after meals, ginger tea"
+Asthma,"Joint pain, swelling","Brahmi, Peppermint, Eucalyptus Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Common Cold,"High blood pressure, headache","Brahmi, Peppermint, Eucalyptus Oil",Decoction twice daily
+Hypertension,"Lower back pain, stiffness","Guggul, Triphala, Honey",Juice with honey twice daily
+Constipation,"Lower back pain, stiffness","Tulsi, Ginger, Honey, Black Pepper",Herbal capsule or tea twice daily
+Obesity,"Runny nose, sore throat, sneezing, cough","Ashoka, Lodhra, Aloe Vera",Oil massage and warm compress
+Eye Problems,"Hard stool, bloating","Neem, Turmeric, Aloe Vera",Herbal tea twice daily
+Skin Allergy,"Lower back pain, stiffness","Peppermint, Ginger, Coriander",Paste application and inhalation
+Back Pain,"Breathlessness, chest tightness","Ashoka, Lodhra, Aloe Vera",Paste application and inhalation
+Back Pain,"High temperature, body pain, weakness","Brahmi, Peppermint, Eucalyptus Oil","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Migraine,"Hard stool, bloating","Ajwain, Ginger, Lemon",Powder with warm water daily
+Headache,"Weak roots, dandruff, dryness","Ashwagandha, Turmeric, Ginger",Decoction twice daily
+Skin Allergy,"Hard stool, bloating","Tulsi, Ginger, Honey, Black Pepper",Juice or tea after meals
+Acidity,"Blurred vision, eye strain","Ashwagandha, Turmeric, Ginger","Fennel tea after meals, amla juice"
+Common Cold,"Loose motion, dehydration","Peppermint, Ginger, Coriander","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Hypertension,"Runny nose, sore throat, sneezing, cough","Brahmi, Peppermint, Eucalyptus Oil",Triphala powder at night with warm water
+Constipation,"Bloating, gas, stomach ache, acidity","Tulsi, Ginger, Honey, Black Pepper",Decoction twice daily
+Migraine,Dry or wet cough,"Brahmi, Peppermint, Eucalyptus Oil","Neem paste on affected area, turmeric in warm milk"
+Hypertension,"Blurred vision, eye strain","Ashoka, Lodhra, Aloe Vera",Triphala powder at night with warm water
+Arthritis,"Anxiety, restlessness","Jamun Seeds, Methi Seeds, Neem Leaves",Paste application and inhalation
+Diabetes,"Burning sensation, chest pain, bloating","Fennel Seeds, Amla, Mint","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Common Cold,"Severe headache, nausea","Mulethi (Licorice), Honey, Ginger",Paste application and inhalation
+Indigestion,"Itching, redness, inflammation","Tulsi, Ginger, Honey, Black Pepper","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Menstrual Problems,"High temperature, body pain, weakness","Brahmi, Peppermint, Eucalyptus Oil",Paste application and inhalation
+Diabetes,"Runny nose, sore throat, sneezing, cough","Vasaka, Tulsi, Ginger",Herbal capsule or tea twice daily
+Diabetes,"Runny nose, sore throat, sneezing, cough","Bael Fruit, Pomegranate, Ginger","Ajwain with warm water after meals, ginger tea"
+Diabetes,"Joint pain, swelling","Amla, Bhringraj, Coconut Oil",Juice or powder in warm water
+Indigestion,"Irregular periods, cramps","Fennel Seeds, Amla, Mint","Amla juice daily, bhringraj oil scalp massage"
+Indigestion,Dry or wet cough,"Neem, Turmeric, Aloe Vera","Jamun seed powder with water, methi overnight water"
+Arthritis,"High blood pressure, headache","Bael Fruit, Pomegranate, Ginger","Fennel tea after meals, amla juice"
+Diabetes,"Hard stool, bloating","Amla, Bhringraj, Coconut Oil",Oil massage and warm compress
+Constipation,"Overweight, fatigue","Triphala, Isabgol, Warm Water","Brahmi tea, peppermint inhalation, eucalyptus oil massage"
+Fever,"Anxiety, restlessness","Garlic, Arjuna, Amla",Mulethi powder with honey twice daily
+Diabetes,"Weak roots, dandruff, dryness","Triphala, Isabgol, Warm Water",Herbal capsule or tea twice daily
+Common Cold,"Lower back pain, stiffness","Triphala, Isabgol, Warm Water",Tulsi tea with ginger & honey twice daily
+Constipation,"Runny nose, sore throat, sneezing, cough","Bael Fruit, Pomegranate, Ginger",Juice or tea after meals
+Stress,"Burning sensation, chest pain, bloating","Ginger Oil, Turmeric, Eucalyptus Oil","Jamun seed powder with water, methi overnight water"
+Diarrhea,"Anxiety, restlessness","Brahmi, Peppermint, Eucalyptus Oil",Mulethi powder with honey twice daily
+Diabetes,"Severe headache, nausea","Fennel Seeds, Amla, Mint",Mulethi powder with honey twice daily
+Common Cold,"Hard stool, bloating","Fennel Seeds, Amla, Mint",Juice or powder in warm water
