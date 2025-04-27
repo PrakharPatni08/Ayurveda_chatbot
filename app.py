@@ -36,7 +36,7 @@ query = st.text_input(
 @st.cache_resource(show_spinner="Setting up your herbal assistant...")
 def setup_chatbot():
     df = load_data()
-    st.write(f"📄 Loaded {len(df)} remedies from the dataset.")
+    #st.write(f"📄 Loaded {len(df)} remedies from the dataset.")
     vectorstore = create_vector_index(df)
     print(f"Vectorstore has {vectorstore.index.ntotal} documents.")  # Updated line
     return vectorstore
@@ -84,4 +84,7 @@ if query:
     """,
     unsafe_allow_html=True,
 )
+
+
+
 
