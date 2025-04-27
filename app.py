@@ -14,7 +14,7 @@ st.set_page_config(page_title="🌿 HerbSphere Remedy Chatbot", layout="centered
 
 # --- Load Animation ---
 try:
-    lottie_herb = load_lottiefile("C:/Users/admin/OneDrive/Desktop/ayurveda_chatbot/lottie_herb_animation.json")  # Path to your Lottie file
+    lottie_herb = load_lottiefile("lottie_herb_animation.json")  # Path to your Lottie file
 except Exception :
     lottie_herb = None
 

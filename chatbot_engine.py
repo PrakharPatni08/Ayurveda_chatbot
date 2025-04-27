@@ -13,7 +13,7 @@ load_dotenv()
 known_terms = set()
 
 # 📂 Load CSV into DataFrame
-def load_data(path="C:/Users/admin/OneDrive/Desktop/ayurveda_chatbot/data/herbal_remedies.csv"):
+def load_data(path="data/herbal_remedies.csv"):
     df = pd.read_csv(path)
     df.fillna("", inplace=True)
     
