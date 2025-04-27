@@ -1,4 +1,3 @@
-#import os
 import pandas as pd
 from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
@@ -17,13 +16,14 @@ def load_data(path="data/herbal_remedies.csv"):
     df = pd.read_csv(path)
     df.fillna("", inplace=True)
     
-    # Collect known diseases and symptoms
+    # Collect known diseases and symptoms, ensuring case insensitivity
     global known_terms
     known_diseases = df['Disease'].str.lower().tolist()
     known_symptoms = df['Symptoms'].str.lower().tolist()
     known_terms = set(known_diseases + known_symptoms)
     
-    print(f"Known terms: {known_terms}")  # Debugging line
+    print(f"Known terms after loading data: {known_terms}")  # Debugging line
+    
     df['content'] = (
         "Disease: " + df['Disease'] +
         "\nSymptoms: " + df['Symptoms'] +
@@ -43,29 +43,49 @@ def create_vector_index(df):
     embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")  # Local model
     vectorstore = FAISS.from_documents(docs_split, embeddings)
     
-    print(f"Vectorstore has {vectorstore.index.ntotal} documents.")  # Corrected line
+    print(f"Vectorstore has {vectorstore.index.ntotal} documents.")  # Debugging line
 
     return vectorstore
 
-# 🔍 Recommendation with keyword check
-def get_recommendation(query, vectorstore, k=3):
-    # Check if query contains known disease/symptom
-    query_lower = query.lower()
-    print(f"Checking for known terms in query: {query_lower}")  # Debugging line
-    if not any(term in query_lower for term in known_terms):
-        print("No known terms found, returning default message.")  # Debugging line
-        return ["🌱 We don’t have a remedy for this disease yet, but the search for Ayurvedic solutions is still underway."]
+# 🔍 Recommendation using Langchain's similarity search
+# List of diseases that should return no remedies found
+no_remedy_diseases = {
+    "cancer", "covid-19", "pneumonia", "chronic kidney disease", "hiv/aids", "heart attack", 
+    "stroke", "chronic obstructive pulmonary disease", "cystic fibrosis", "sickle cell anemia", 
+    "amyotrophic lateral sclerosis", "hepatitis c", "pancreatitis", "polycystic kidney disease", 
+    "glaucoma", "end-stage liver disease", "chronic fatigue syndrome", "hemophilia", "liver abscess", 
+    "chronic hepatitis b", "chronic bronchitis", "emphysema", "pneumothorax", "kidney stones", 
+    "tetanus", "sars", "meningitis", "tuberculosis", "chikungunya virus", "malaria", "dengue", "leukemia"
+}
 
-    # Proceed with vector search
-    print("Query contains known terms, proceeding with vector search.")  # Debugging line
-    results = vectorstore.similarity_search(query, k=k)
+def get_recommendation(query, vectorstore, k=3):
+    query_lower = query.lower()
     
-    print(f"Similarity search results: {results}")  # Debugging line
+    # Debugging: Print the query being processed
+    print(f"Query: {query_lower}")
+    print(f"Known terms: {known_terms}")
+    
+    # Check if the query matches any disease from the no_remedy_diseases list
+    if any(disease in query_lower for disease in no_remedy_diseases):
+        print("Query matches a disease with no remedy.")
+        return ["🌱 We don’t have a remedy for this disease yet, but the search for Ayurvedic solutions is still underway."]
+    
+    # Perform similarity search using the original query
+    try:
+        results = vectorstore.similarity_search(query_lower, k=k)
+    except Exception as e:
+        print(f"Error during similarity search: {e}")
+        return ["🌱 There was an error processing your request. Please try again later."]
+    
+    # Debugging: Output the results of the similarity search
+    print(f"Similarity search results: {results}")
+    
     if not results:
-        print("No results found in similarity search.")  # Debugging line
+        print("No results found in similarity search.")
         return ["🌱 We don’t have a remedy for this disease yet, but the search for Ayurvedic solutions is still underway."]
     
     return [r.page_content for r in results]
+
 
 # Main execution
 if __name__ == "__main__":
@@ -76,8 +96,9 @@ if __name__ == "__main__":
     vectorstore = create_vector_index(df)
     
     # Example usage of the get_recommendation function
-    query = "headache"  # Example query
+    query = "i have cold and cough"  # Example query
     recommendations = get_recommendation(query, vectorstore, k=3)
     
+    # Output recommendations
     for recommendation in recommendations:
         print(recommendation)
