@@ -14,7 +14,7 @@ st.set_page_config(page_title="🌿 HerbSphere Remedy Chatbot", layout="centered
 
 # --- Load Animation ---
 try:
-    lottie_herb = load_lottiefile("lottie_herb_animation.json")  # Path to your Lottie file
+    lottie_herb = load_lottiefile("C:/Users/admin/OneDrive/Desktop/ayurveda_chatbot/lottie_herb_animation.json")  # Path to your Lottie file
 except Exception :
     lottie_herb = None
 
@@ -28,7 +28,7 @@ st.markdown("Type your **disease** or **symptoms**, and discover Ayurvedic remed
 
 query = st.text_input(
     "🔍 Enter your symptoms or disease name",
-    placeholder="E.g., headache, skin rash, anxiety...",
+    placeholder="E.g., headache, arthritis, obesity...",
     help="Type a symptom or disease and get remedies."
 )
 
@@ -36,7 +36,7 @@ query = st.text_input(
 @st.cache_resource(show_spinner="Setting up your herbal assistant...")
 def setup_chatbot():
     df = load_data()
-    #st.write(f"📄 Loaded {len(df)} remedies from the dataset.")
+    st.write(f"📄 Loaded {len(df)} remedies from the dataset.")
     vectorstore = create_vector_index(df)
     print(f"Vectorstore has {vectorstore.index.ntotal} documents.")  # Updated line
     return vectorstore
