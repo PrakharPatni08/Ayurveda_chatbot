@@ -66,4 +66,9 @@ watchdog==6.0.0
 zstandard==0.23.0
 streamlit-extras
 streamlit-lottie
+langchain>=0.1.0
 langchain-community
+fastapi
+uvicorn
+faiss-cpu
+sentence-transformers
