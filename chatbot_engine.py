@@ -2,7 +2,8 @@ import pandas as pd
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.text_splitter import CharacterTextSplitter
-from langchain.document_loaders import DataFrameLoader
+from langchain_community.document_loaders import DataFrameLoader
+
 
 # Global variables to store known disease and symptom keywords
 known_terms = set()
