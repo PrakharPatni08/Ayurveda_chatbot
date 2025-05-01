@@ -32,6 +32,9 @@ langchain-community
 langchain-core
 langchain-text-splitters
 langsmith
+langchain-huggingface
+huggingface_hub[hf_xet]
+
 
 # Machine learning / NLP
 sentence-transformers
