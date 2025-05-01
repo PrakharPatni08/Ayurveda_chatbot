@@ -31,7 +31,7 @@ langchain==0.3.23
 langchain-community==0.0.20
 langchain-core==0.1.53
 langchain-text-splitters==0.0.1
-langsmith==0.1.32
+langsmith==0.1.147
 
 # Machine learning / NLP
 sentence-transformers
