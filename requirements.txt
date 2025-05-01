@@ -63,6 +63,5 @@ urllib3
 requests
 tqdm
 six
-tzdata1
 orjson
 PyYAML
