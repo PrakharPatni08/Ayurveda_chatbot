@@ -27,42 +27,42 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 
 # Langchain ecosystem
-langchain==0.3.23
-langchain-community==0.0.20
-langchain-core==0.1.53
-langchain-text-splitters==0.0.1
-langsmith==0.1.147
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langsmith
 
 # Machine learning / NLP
 sentence-transformers
 faiss-cpu
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.4.2
+numpy
+pandas
+scikit-learn
 
 # Streamlit app
-streamlit==1.44.1
+streamlit
 streamlit-extras
 streamlit-lottie
-pydeck==0.9.1
-Pillow==10.3.0
-watchdog==4.0.0
+pydeck
+Pillow
+watchdog
 
 # Backend (FastAPI + server)
-fastapi==0.111.0
-uvicorn==0.29.0
-python-dotenv==1.0.1
+fastapi
+uvicorn
+python-dotenv
 
 # Misc
-pydantic==2.6.4
-pydantic_core==2.16.3
-protobuf==4.25.3
+pydantic
+pydantic_core
+protobuf
 typing-inspection==0.4.0  # Use compatible version
-typing_extensions==4.11.0
-urllib3==2.2.1
-requests==2.31.0
-tqdm==4.66.2
-six==1.16.0
-tzdata==2024.1
-orjson==3.9.15
-PyYAML==6.0.1
+typing_extensions
+urllib3
+requests
+tqdm
+six
+tzdata1
+orjson
+PyYAML
