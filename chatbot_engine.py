@@ -1,12 +1,8 @@
 import pandas as pd
-from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_loaders import DataFrameLoader
-
-# 🔐 Load environment variables
-load_dotenv()
 
 # Global variables to store known disease and symptom keywords
 known_terms = set()
