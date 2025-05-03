@@ -1,11 +1,11 @@
 import streamlit as st
-from chatbot_engine import load_data, create_vector_index, get_recommendation
+from chatbot_engine import load_data, create_vector_index, load_vector_index, get_recommendation
 from streamlit_extras.stylable_container import stylable_container
 from streamlit_lottie import st_lottie
 import json
 import os
 
-# --- Functions ---
+# --- Load Lottie animation ---
 def load_lottiefile(filepath: str):
     try:
         with open(filepath, "r", encoding="utf-8") as f:
@@ -14,40 +14,32 @@ def load_lottiefile(filepath: str):
         st.warning(f"⚠️ Could not load Lottie animation: {e}")
         return None
 
-
-# --- Page config ---
 st.set_page_config(page_title="🌿 HerbSphere Remedy Chatbot", layout="centered", page_icon="🌿")
 
-# --- Load Animation ---
+# Animation section
 lottie_path = os.path.join("lottie_herb_animation.json")
 lottie_herb = load_lottiefile(lottie_path)
-
-# --- Top Animation ---
 if lottie_herb:
     st_lottie(lottie_herb, height=250, speed=1)
 
-# --- Title and description ---
+# Title & Input
 st.title("🌿 HerbSphere Remedy Chatbot")
 st.markdown("Type your **disease** or **symptoms**, and discover Ayurvedic remedies tailored for you! ✨")
 
-# --- Input field ---
-query = st.text_input(
-    "🔍 Enter your symptoms or disease name",
-    placeholder="E.g., headache, arthritis, obesity...",
-    help="Type a symptom or disease and get remedies."
-)
+query = st.text_input("🔍 Enter your symptoms or disease name", placeholder="E.g., headache, arthritis, obesity...")
 
-# --- Cache chatbot setup ---
+# Setup chatbot
 @st.cache_resource(show_spinner="Setting up your herbal assistant...")
 def setup_chatbot():
-    df = load_data()
-    vectorstore = create_vector_index(df)
-    return vectorstore
+    if not os.path.exists("vectorstore"):
+        df = load_data()
+        return create_vector_index(df)
+    else:
+        return load_vector_index()
 
-# --- Initialize chatbot ---
 vectorstore = setup_chatbot()
 
-# --- Handle the query ---
+# Process input
 if query:
     with st.spinner('🧘‍♀️ Finding the perfect remedy for you...'):
         results = get_recommendation(query, vectorstore)
@@ -74,7 +66,7 @@ if query:
     else:
         st.warning("🧪 This disease's remedy is still under research. We're working to find the best Ayurvedic solutions soon!")
 
-# --- Footer ---
+# Footer
 st.markdown(
     """
     <hr style="margin-top: 3rem; margin-bottom: 1rem;">
