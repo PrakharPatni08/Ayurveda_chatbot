@@ -9,12 +9,27 @@ INDEX_PATH = "vectorstore"
 
 # List of diseases with no remedies
 no_remedy_diseases = {
-    "cancer", "covid-19", "pneumonia", "chronic kidney disease", "hiv/aids", "heart attack", 
-    "stroke", "chronic obstructive pulmonary disease", "cystic fibrosis", "sickle cell anemia", 
-    "amyotrophic lateral sclerosis", "hepatitis c", "pancreatitis", "polycystic kidney disease", 
-    "glaucoma", "end-stage liver disease", "chronic fatigue syndrome", "hemophilia", "liver abscess", 
-    "chronic hepatitis b", "chronic bronchitis", "emphysema", "pneumothorax", "kidney stones", 
-    "tetanus", "sars", "meningitis", "tuberculosis", "chikungunya virus", "malaria", "dengue", "leukemia"
+    "cancer", "covid-19", "pneumonia", "chronic kidney disease", "hiv/aids", "heart attack",
+    "stroke", "chronic obstructive pulmonary disease", "cystic fibrosis", "sickle cell anemia",
+    "amyotrophic lateral sclerosis", "hepatitis c", "pancreatitis", "polycystic kidney disease",
+    "glaucoma", "end-stage liver disease", "chronic fatigue syndrome", "hemophilia", "liver abscess",
+    "chronic hepatitis b", "chronic bronchitis", "emphysema", "pneumothorax", "kidney stones",
+    "tetanus", "sars", "meningitis", "tuberculosis", "chikungunya virus", "malaria", "dengue",
+    "leukemia", "kidney stone", "multiple sclerosis", "parkinson’s disease", "lupus",
+    "crohn’s disease", "ulcerative colitis", "ebola virus disease", "zika virus infection",
+    "marburg virus disease", "rabies", "yellow fever", "plague", "typhoid fever", "filariasis",
+    "sepsis", "brain tumor", "spinal muscular atrophy", "thalassemia", "myocardial infarction",
+    "eclampsia", "hydrocephalus", "huntington’s disease", "wilson’s disease", "rheumatic fever",
+    "nephrotic syndrome", "acute respiratory distress syndrome", "bone cancer", "gallstones",
+    "pulmonary hypertension", "cerebral palsy", "diphtheria", "avian influenza", "swine flu",
+    "lyme disease", "measles", "mumps", "rubella", "whooping cough", "chagas disease", "trypanosomiasis",
+    "toxoplasmosis", "schistosomiasis", "listeriosis", "cytomegalovirus", "herpes simplex virus",
+    "epilepsy", "gastric cancer", "liver cancer", "ovarian cancer", "prostate cancer", "bladder cancer",
+    "pancreatic cancer", "esophageal cancer", "thyroid cancer", "testicular cancer", "brain aneurysm",
+    "aneurysm rupture", "endocarditis", "mitral valve prolapse", "aortic dissection",
+    "scleroderma", "sarcoidosis", "interstitial lung disease", "myasthenia gravis", "dermatomyositis",
+    "retinoblastoma", "optic neuritis", "macular degeneration", "retinitis pigmentosa",
+    "charcot-marie-tooth disease", "sjögren’s syndrome", "reye’s syndrome", "creutzfeldt-jakob disease" 
 }
 
 def load_data(path="data/herbal_remedies.csv"):
